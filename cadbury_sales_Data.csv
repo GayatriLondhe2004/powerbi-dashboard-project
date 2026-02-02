@@ -1,0 +1,1001 @@
+Date,Product,Region,Sales_Channel,Payment_Mode,Customer_Age,Units_Sold,Unit_Price,Discount_%,Stock_Left,Revenue,Final_Revenue
+02-Jan-25,Fuse,Kolkata,Online,Debit Card,38,298,128,20,11,38144,30515.2
+05-Jan-25,Perk,Mumbai,Distributor,Debit Card,49,191,105,0,97,20055,20055
+06-Jan-25,Crunchie,Hyderabad,Supermarket,Debit Card,14,400,199,20,5,79600,63680
+11-Jan-25,Perk,Hyderabad,Distributor,Debit Card,28,412,108,15,190,44496,37821.6
+18-Jan-25,Crunchie,Hyderabad,Online,Debit Card,26,289,74,20,138,21386,17108.8
+25-Jan-25,Fuse,Delhi,Online,Debit Card,35,227,31,20,105,7037,5629.6
+12-Feb-25,5 Star,Mumbai,Supermarket,Debit Card,55,228,157,0,43,35796,35796
+14-Feb-25,Fuse,Mumbai,Online,Debit Card,52,213,86,0,118,18318,18318
+18-Feb-25,Bournville,Kolkata,Retail Store,Debit Card,59,107,197,5,144,21079,20025.05
+21-Feb-25,Bournville,Kolkata,Distributor,Debit Card,44,217,27,20,151,5859,4687.2
+27-Feb-25,Dairy Milk,Hyderabad,Retail Store,Debit Card,18,31,71,15,69,2201,1870.85
+02-Mar-25,Perk,Hyderabad,Retail Store,Debit Card,12,448,90,5,125,40320,38304
+04-Mar-25,Gems,Hyderabad,Retail Store,Debit Card,58,228,86,0,32,19608,19608
+06-Mar-25,Silk,Hyderabad,Online,Debit Card,30,239,99,10,17,23661,21294.9
+11-Mar-25,Bournville,Hyderabad,Retail Store,Debit Card,46,157,48,0,41,7536,7536
+16-Mar-25,Gems,Delhi,Online,Debit Card,22,376,196,15,169,73696,62641.6
+21-Mar-25,Fuse,Mumbai,Distributor,Debit Card,59,415,140,10,22,58100,52290
+22-Mar-25,Silk,Mumbai,Retail Store,Debit Card,23,332,159,0,56,52788,52788
+24-Mar-25,Gems,Bangalore,Distributor,Debit Card,12,216,175,15,125,37800,32130
+31-Mar-25,5 Star,Chennai,Distributor,Debit Card,14,335,147,20,17,49245,39396
+02-Apr-25,Fuse,Delhi,Online,Debit Card,56,452,196,5,160,88592,84162.4
+03-Apr-25,5 Star,Pune,Online,Debit Card,15,109,85,0,83,9265,9265
+06-Apr-25,Bournville,Chennai,Distributor,Debit Card,57,422,40,5,113,16880,16036
+09-Apr-25,Bournville,Chennai,Online,Debit Card,53,92,199,15,87,18308,15561.8
+10-Apr-25,Gems,Chennai,Retail Store,Debit Card,17,163,61,5,71,9943,9445.85
+14-Apr-25,Fuse,Kolkata,Retail Store,Debit Card,48,88,40,0,52,3520,3520
+18-Apr-25,Fuse,Hyderabad,Retail Store,Debit Card,46,57,141,20,176,8037,6429.6
+19-Apr-25,Bournville,Hyderabad,Online,Debit Card,34,414,22,15,138,9108,7741.8
+22-Apr-25,Silk,Delhi,Supermarket,Debit Card,29,287,179,5,163,51373,48804.35
+06-May-25,Crunchie,Kolkata,Retail Store,Debit Card,24,92,32,10,64,2944,2649.6
+08-May-25,Dairy Milk,Bangalore,Distributor,Debit Card,56,147,81,5,23,11907,11311.65
+12-May-25,Gems,Kolkata,Supermarket,Debit Card,53,55,196,5,17,10780,10241
+14-May-25,Gems,Chennai,Online,Debit Card,43,425,176,10,111,74800,67320
+16-May-25,Gems,Pune,Distributor,Debit Card,32,271,198,15,153,53658,45609.3
+24-May-25,Crunchie,Pune,Supermarket,Debit Card,12,187,105,15,103,19635,16689.75
+02-Jun-25,Dairy Milk,Hyderabad,Supermarket,Debit Card,28,141,90,5,1,12690,12055.5
+10-Jun-25,Silk,Kolkata,Online,Debit Card,50,357,189,0,187,67473,67473
+13-Jun-25,Fuse,Delhi,Retail Store,Debit Card,39,386,66,20,14,25476,20380.8
+23-Jun-25,Fuse,Hyderabad,Distributor,Debit Card,58,120,41,10,142,4920,4428
+25-Jun-25,Bournville,Delhi,Supermarket,Debit Card,32,445,149,10,126,66305,59674.5
+27-Jun-25,Perk,Hyderabad,Retail Store,Debit Card,50,72,145,15,39,10440,8874
+28-Jun-25,Dairy Milk,Hyderabad,Distributor,Debit Card,39,234,81,20,155,18954,15163.2
+29-Jun-25,Perk,Pune,Retail Store,Debit Card,16,375,164,10,159,61500,55350
+01-Jul-25,Silk,Pune,Retail Store,Debit Card,31,308,21,20,142,6468,5174.4
+04-Jul-25,Dairy Milk,Hyderabad,Distributor,Debit Card,23,305,51,10,64,15555,13999.5
+08-Jul-25,Silk,Mumbai,Distributor,Debit Card,37,460,112,10,25,51520,46368
+26-Jul-25,Crunchie,Delhi,Supermarket,Debit Card,29,183,97,10,139,17751,15975.9
+28-Jul-25,Bournville,Hyderabad,Online,Debit Card,58,467,158,0,100,73786,73786
+30-Jul-25,Silk,Pune,Retail Store,Debit Card,15,330,72,15,8,23760,20196
+31-Jul-25,Silk,Bangalore,Supermarket,Debit Card,18,385,113,0,11,43505,43505
+03-Aug-25,Perk,Delhi,Supermarket,Debit Card,59,273,165,5,181,45045,42792.75
+04-Aug-25,Gems,Hyderabad,Retail Store,Debit Card,20,188,26,0,27,4888,4888
+06-Aug-25,Gems,Kolkata,Distributor,Debit Card,56,218,156,0,98,34008,34008
+07-Aug-25,Crunchie,Kolkata,Retail Store,Debit Card,28,82,193,10,196,15826,14243.4
+08-Aug-25,Silk,Kolkata,Retail Store,Debit Card,28,399,37,20,109,14763,11810.4
+11-Aug-25,Bournville,Pune,Distributor,Debit Card,19,304,46,5,105,13984,13284.8
+15-Aug-25,Gems,Pune,Supermarket,Debit Card,16,362,52,5,77,18824,17882.8
+06-Sep-25,Dairy Milk,Kolkata,Supermarket,Debit Card,41,101,175,5,50,17675,16791.25
+10-Sep-25,Fuse,Kolkata,Distributor,Debit Card,19,159,153,5,94,24327,23110.65
+13-Sep-25,Perk,Kolkata,Supermarket,Debit Card,18,194,40,5,35,7760,7372
+16-Sep-25,Crunchie,Chennai,Online,Debit Card,14,223,34,10,163,7582,6823.8
+18-Sep-25,Dairy Milk,Mumbai,Retail Store,Debit Card,47,144,76,20,194,10944,8755.2
+19-Sep-25,Bournville,Mumbai,Online,Debit Card,36,70,161,5,8,11270,10706.5
+24-Sep-25,Fuse,Pune,Online,Debit Card,24,485,113,10,162,54805,49324.5
+07-Oct-25,5 Star,Delhi,Retail Store,Debit Card,57,422,35,15,115,14770,12554.5
+13-Oct-25,Perk,Pune,Supermarket,Debit Card,22,464,149,5,16,69136,65679.2
+15-Oct-25,Gems,Delhi,Distributor,Debit Card,19,118,96,20,90,11328,9062.4
+21-Oct-25,5 Star,Mumbai,Online,Debit Card,45,78,75,15,89,5850,4972.5
+25-Oct-25,Silk,Chennai,Distributor,Debit Card,27,453,158,0,150,71574,71574
+06-Nov-25,Bournville,Kolkata,Distributor,Debit Card,58,162,30,10,167,4860,4374
+09-Nov-25,Fuse,Kolkata,Online,Debit Card,50,311,142,5,42,44162,41953.9
+11-Nov-25,Perk,Bangalore,Distributor,Debit Card,19,64,122,10,182,7808,7027.2
+14-Nov-25,Dairy Milk,Pune,Online,Debit Card,38,45,117,15,79,5265,4475.25
+21-Nov-25,Bournville,Chennai,Supermarket,Debit Card,41,345,49,20,157,16905,13524
+29-Nov-25,Fuse,Kolkata,Distributor,Debit Card,28,44,64,15,75,2816,2393.6
+30-Nov-25,Perk,Delhi,Distributor,Debit Card,34,48,46,0,54,2208,2208
+08-Dec-25,Fuse,Chennai,Distributor,Debit Card,25,85,113,10,180,9605,8644.5
+09-Dec-25,Perk,Bangalore,Supermarket,Debit Card,39,480,197,0,83,94560,94560
+14-Dec-25,Fuse,Mumbai,Online,Debit Card,41,392,85,10,148,33320,29988
+23-Dec-25,5 Star,Delhi,Retail Store,Debit Card,45,55,112,20,163,6160,4928
+27-Dec-25,Fuse,Delhi,Distributor,Debit Card,52,54,40,0,108,2160,2160
+28-Dec-25,Dairy Milk,Delhi,Distributor,Debit Card,23,410,61,20,43,25010,20008
+30-Dec-25,5 Star,Chennai,Online,Debit Card,42,113,85,15,171,9605,8164.25
+06-Jan-26,Fuse,Pune,Retail Store,Debit Card,28,103,138,10,9,14214,12792.6
+12-Jan-26,Fuse,Hyderabad,Online,Debit Card,16,135,31,10,9,4185,3766.5
+16-Jan-26,Crunchie,Delhi,Online,Debit Card,22,471,199,5,178,93729,89042.55
+23-Jan-26,Silk,Mumbai,Retail Store,Debit Card,55,243,175,0,84,42525,42525
+27-Jan-26,Perk,Bangalore,Supermarket,Debit Card,26,176,15,0,144,2640,2640
+05-Feb-26,Crunchie,Delhi,Distributor,Debit Card,37,421,22,20,170,9262,7409.6
+11-Feb-26,Bournville,Mumbai,Online,Debit Card,58,298,58,0,77,17284,17284
+15-Feb-26,Perk,Chennai,Online,Debit Card,54,204,56,15,176,11424,9710.4
+01-Mar-26,Crunchie,Mumbai,Online,Debit Card,31,441,152,10,79,67032,60328.8
+02-Mar-26,Gems,Pune,Distributor,Debit Card,30,248,28,10,55,6944,6249.6
+06-Mar-26,Fuse,Hyderabad,Supermarket,Debit Card,53,254,172,20,24,43688,34950.4
+12-Mar-26,Crunchie,Mumbai,Online,Debit Card,52,353,131,15,174,46243,39306.55
+18-Mar-26,Crunchie,Pune,Supermarket,Debit Card,46,291,134,20,96,38994,31195.2
+20-Mar-26,Crunchie,Hyderabad,Online,Debit Card,52,460,80,10,130,36800,33120
+21-Mar-26,Fuse,Delhi,Supermarket,Debit Card,18,16,116,20,169,1856,1484.8
+29-Mar-26,Bournville,Pune,Retail Store,Debit Card,13,26,137,0,171,3562,3562
+30-Mar-26,Bournville,Bangalore,Retail Store,Debit Card,27,180,151,20,108,27180,21744
+02-Apr-26,Bournville,Hyderabad,Online,Debit Card,49,262,77,5,182,20174,19165.3
+04-Apr-26,Perk,Bangalore,Online,Debit Card,33,216,196,5,197,42336,40219.2
+09-Apr-26,Dairy Milk,Hyderabad,Online,Debit Card,56,389,99,20,65,38511,30808.8
+10-Apr-26,Fuse,Chennai,Online,Debit Card,56,153,37,10,18,5661,5094.9
+14-Apr-26,Gems,Hyderabad,Distributor,Debit Card,19,82,145,0,41,11890,11890
+15-Apr-26,Fuse,Delhi,Supermarket,Debit Card,18,129,33,15,41,4257,3618.45
+20-Apr-26,Perk,Chennai,Distributor,Debit Card,17,345,17,10,26,5865,5278.5
+23-Apr-26,Crunchie,Hyderabad,Retail Store,Debit Card,32,444,124,0,62,55056,55056
+26-Apr-26,Fuse,Mumbai,Distributor,Debit Card,12,208,66,5,18,13728,13041.6
+30-Apr-26,Gems,Kolkata,Online,Debit Card,46,156,126,5,116,19656,18673.2
+03-May-26,Fuse,Hyderabad,Supermarket,Debit Card,55,438,107,20,38,46866,37492.8
+07-May-26,Gems,Hyderabad,Supermarket,Debit Card,24,190,160,15,131,30400,25840
+11-May-26,Silk,Bangalore,Distributor,Debit Card,13,241,131,0,195,31571,31571
+12-May-26,Perk,Hyderabad,Distributor,Debit Card,33,155,117,0,28,18135,18135
+14-May-26,Dairy Milk,Delhi,Supermarket,Debit Card,47,393,102,5,50,40086,38081.7
+20-May-26,Silk,Pune,Online,Debit Card,58,15,24,20,56,360,288
+11-Jun-26,Perk,Kolkata,Supermarket,Debit Card,58,230,121,10,108,27830,25047
+16-Jun-26,Crunchie,Bangalore,Retail Store,Debit Card,17,215,85,5,58,18275,17361.25
+18-Jun-26,Dairy Milk,Hyderabad,Supermarket,Debit Card,43,49,23,20,189,1127,901.6
+23-Jun-26,Gems,Bangalore,Online,Debit Card,23,69,92,20,111,6348,5078.4
+25-Jun-26,Silk,Pune,Online,Debit Card,27,340,184,15,159,62560,53176
+26-Jun-26,5 Star,Mumbai,Retail Store,Debit Card,54,131,78,10,26,10218,9196.2
+27-Jun-26,Perk,Chennai,Supermarket,Debit Card,47,488,56,15,17,27328,23228.8
+29-Jun-26,Dairy Milk,Hyderabad,Retail Store,Debit Card,18,105,39,20,176,4095,3276
+01-Jul-26,Gems,Mumbai,Distributor,Debit Card,58,423,165,15,171,69795,59325.75
+03-Jul-26,5 Star,Delhi,Online,Debit Card,43,395,34,5,53,13430,12758.5
+05-Jul-26,Dairy Milk,Mumbai,Distributor,Debit Card,19,265,67,5,70,17755,16867.25
+07-Jul-26,Gems,Hyderabad,Retail Store,Debit Card,34,402,128,5,145,51456,48883.2
+12-Jul-26,Bournville,Chennai,Distributor,Debit Card,15,326,108,5,178,35208,33447.6
+15-Jul-26,Fuse,Mumbai,Online,Debit Card,40,418,19,0,132,7942,7942
+17-Jul-26,Silk,Chennai,Distributor,Debit Card,40,145,20,0,157,2900,2900
+23-Jul-26,Silk,Mumbai,Supermarket,Debit Card,34,438,73,5,193,31974,30375.3
+29-Jul-26,Silk,Hyderabad,Supermarket,Debit Card,20,364,84,0,124,30576,30576
+02-Aug-26,5 Star,Kolkata,Supermarket,Debit Card,22,53,99,15,87,5247,4459.95
+17-Aug-26,Fuse,Bangalore,Distributor,Debit Card,30,396,36,5,145,14256,13543.2
+24-Aug-26,Gems,Chennai,Retail Store,Debit Card,42,254,72,0,70,18288,18288
+01-Sep-26,Fuse,Pune,Supermarket,Debit Card,58,276,45,10,178,12420,11178
+20-Sep-26,Bournville,Hyderabad,Retail Store,Debit Card,49,90,46,5,144,4140,3933
+21-Sep-26,Silk,Chennai,Distributor,Debit Card,33,227,38,0,6,8626,8626
+28-Sep-26,5 Star,Hyderabad,Distributor,Debit Card,41,155,30,20,16,4650,3720
+30-Sep-26,Silk,Hyderabad,Retail Store,Debit Card,41,233,174,20,133,40542,32433.6
+01-Oct-26,5 Star,Hyderabad,Distributor,Debit Card,17,378,36,0,68,13608,13608
+03-Oct-26,Bournville,Delhi,Retail Store,Debit Card,19,71,38,10,20,2698,2428.2
+04-Oct-26,Bournville,Pune,Supermarket,Debit Card,55,303,157,20,23,47571,38056.8
+09-Oct-26,Gems,Pune,Distributor,Debit Card,28,231,139,5,67,32109,30503.55
+15-Oct-26,Silk,Chennai,Retail Store,Debit Card,39,165,39,5,55,6435,6113.25
+18-Oct-26,Gems,Kolkata,Distributor,Debit Card,52,119,43,15,67,5117,4349.45
+20-Oct-26,Perk,Mumbai,Online,Debit Card,15,420,180,15,77,75600,64260
+29-Oct-26,Bournville,Pune,Online,Debit Card,30,397,82,5,76,32554,30926.3
+31-Oct-26,Gems,Mumbai,Retail Store,Debit Card,49,288,47,10,65,13536,12182.4
+01-Nov-26,Silk,Kolkata,Retail Store,Debit Card,29,384,79,15,51,30336,25785.6
+03-Nov-26,Bournville,Bangalore,Supermarket,Debit Card,17,481,88,0,170,42328,42328
+09-Nov-26,Crunchie,Kolkata,Online,Debit Card,54,37,59,10,187,2183,1964.7
+10-Nov-26,5 Star,Delhi,Supermarket,Debit Card,54,401,91,20,185,36491,29192.8
+11-Nov-26,5 Star,Kolkata,Supermarket,Debit Card,27,266,14,10,139,3724,3351.6
+20-Nov-26,Silk,Delhi,Retail Store,Debit Card,47,88,53,5,11,4664,4430.8
+23-Nov-26,Bournville,Kolkata,Supermarket,Debit Card,12,129,51,10,96,6579,5921.1
+26-Nov-26,5 Star,Chennai,Distributor,Debit Card,28,185,104,15,117,19240,16354
+29-Nov-26,5 Star,Bangalore,Distributor,Debit Card,33,65,156,5,172,10140,9633
+07-Dec-26,Gems,Pune,Retail Store,Debit Card,48,86,92,10,116,7912,7120.8
+08-Dec-26,Fuse,Kolkata,Supermarket,Debit Card,39,239,104,0,183,24856,24856
+16-Dec-26,Crunchie,Delhi,Retail Store,Debit Card,13,265,69,15,74,18285,15542.25
+18-Dec-26,Perk,Hyderabad,Retail Store,Debit Card,59,185,105,15,65,19425,16511.25
+24-Dec-26,Fuse,Hyderabad,Online,Debit Card,14,296,116,15,184,34336,29185.6
+27-Dec-26,Gems,Pune,Online,Debit Card,56,70,148,5,139,10360,9842
+30-Dec-26,Gems,Delhi,Distributor,Debit Card,20,374,13,10,144,4862,4375.8
+31-Dec-26,Fuse,Kolkata,Online,Debit Card,38,356,80,5,44,28480,27056
+04-Jan-27,Crunchie,Hyderabad,Retail Store,Debit Card,36,409,149,0,150,60941,60941
+05-Jan-27,5 Star,Hyderabad,Retail Store,Debit Card,40,262,104,20,90,27248,21798.4
+10-Jan-27,Fuse,Hyderabad,Distributor,Debit Card,41,196,115,20,88,22540,18032
+11-Jan-27,Silk,Bangalore,Online,Debit Card,46,414,139,5,78,57546,54668.7
+14-Jan-27,Gems,Pune,Online,Debit Card,38,423,13,20,71,5499,4399.2
+19-Jan-27,Dairy Milk,Chennai,Retail Store,Debit Card,56,424,59,10,21,25016,22514.4
+29-Jan-27,Dairy Milk,Pune,Retail Store,Debit Card,31,265,69,5,78,18285,17370.75
+03-Feb-27,5 Star,Chennai,Online,Debit Card,52,217,37,10,81,8029,7226.1
+08-Feb-27,Fuse,Pune,Online,Debit Card,45,348,197,0,162,68556,68556
+10-Feb-27,Gems,Hyderabad,Distributor,Debit Card,52,77,49,5,155,3773,3584.35
+11-Feb-27,Gems,Hyderabad,Distributor,Debit Card,40,70,86,5,1,6020,5719
+14-Feb-27,5 Star,Hyderabad,Online,Debit Card,22,28,51,0,168,1428,1428
+22-Feb-27,Crunchie,Chennai,Supermarket,Debit Card,58,57,89,15,23,5073,4312.05
+23-Feb-27,Fuse,Pune,Retail Store,Debit Card,18,220,171,0,188,37620,37620
+24-Feb-27,5 Star,Mumbai,Supermarket,Debit Card,37,352,169,0,90,59488,59488
+28-Feb-27,Crunchie,Pune,Online,Debit Card,25,491,177,10,153,86907,78216.3
+10-Mar-27,Dairy Milk,Chennai,Retail Store,Debit Card,59,59,75,15,142,4425,3761.25
+15-Mar-27,Dairy Milk,Mumbai,Online,Debit Card,39,477,161,5,136,76797,72957.15
+26-Mar-27,Fuse,Chennai,Retail Store,Debit Card,38,191,93,0,28,17763,17763
+27-Mar-27,Gems,Pune,Retail Store,Debit Card,51,219,134,20,115,29346,23476.8
+31-Mar-27,Dairy Milk,Mumbai,Distributor,Debit Card,35,286,147,15,185,42042,35735.7
+02-Apr-27,Fuse,Hyderabad,Online,Debit Card,53,142,87,15,20,12354,10500.9
+04-Apr-27,Silk,Delhi,Online,Debit Card,14,434,155,0,101,67270,67270
+07-Apr-27,Perk,Hyderabad,Online,Debit Card,34,498,137,5,90,68226,64814.7
+11-Apr-27,Gems,Mumbai,Online,Debit Card,52,348,45,5,122,15660,14877
+19-Apr-27,Fuse,Chennai,Supermarket,Debit Card,32,469,193,20,128,90517,72413.6
+21-Apr-27,Silk,Hyderabad,Online,Debit Card,14,223,170,5,42,37910,36014.5
+22-Apr-27,Crunchie,Mumbai,Distributor,Debit Card,33,251,182,0,83,45682,45682
+29-Apr-27,Silk,Bangalore,Distributor,Debit Card,58,413,132,15,68,54516,46338.6
+06-May-27,Gems,Pune,Retail Store,Debit Card,36,216,90,20,9,19440,15552
+09-May-27,5 Star,Pune,Retail Store,Debit Card,25,127,70,15,163,8890,7556.5
+16-May-27,Dairy Milk,Hyderabad,Supermarket,Debit Card,32,99,63,5,188,6237,5925.15
+22-May-27,Crunchie,Delhi,Retail Store,Debit Card,21,442,125,10,122,55250,49725
+23-May-27,5 Star,Pune,Distributor,Debit Card,43,239,96,0,143,22944,22944
+27-May-27,5 Star,Delhi,Supermarket,Debit Card,22,35,52,0,2,1820,1820
+31-May-27,Gems,Bangalore,Retail Store,Debit Card,28,433,26,5,12,11258,10695.1
+04-Jun-27,Crunchie,Delhi,Supermarket,Debit Card,36,17,199,20,65,3383,2706.4
+05-Jun-27,Gems,Delhi,Retail Store,Debit Card,32,38,41,15,181,1558,1324.3
+06-Jun-27,Dairy Milk,Mumbai,Online,Debit Card,48,305,177,20,154,53985,43188
+07-Jun-27,Bournville,Hyderabad,Supermarket,Debit Card,49,483,150,0,165,72450,72450
+08-Jun-27,Fuse,Mumbai,Retail Store,Debit Card,12,423,44,0,89,18612,18612
+11-Jun-27,Silk,Kolkata,Supermarket,Debit Card,28,349,79,5,101,27571,26192.45
+21-Jun-27,Fuse,Hyderabad,Distributor,Debit Card,58,452,96,0,199,43392,43392
+25-Jun-27,5 Star,Pune,Distributor,Debit Card,45,164,63,15,191,10332,8782.2
+05-Jul-27,Bournville,Pune,Distributor,Debit Card,23,243,190,15,153,46170,39244.5
+12-Jul-27,Dairy Milk,Pune,Online,Debit Card,37,216,17,15,117,3672,3121.2
+13-Jul-27,Silk,Kolkata,Online,Debit Card,26,104,38,15,36,3952,3359.2
+07-Aug-27,Bournville,Bangalore,Distributor,Debit Card,27,285,118,20,41,33630,26904
+09-Aug-27,Perk,Hyderabad,Distributor,Debit Card,51,367,52,10,104,19084,17175.6
+13-Aug-27,Perk,Delhi,Retail Store,Debit Card,30,61,35,10,65,2135,1921.5
+18-Aug-27,Silk,Kolkata,Retail Store,Debit Card,36,302,146,10,128,44092,39682.8
+25-Aug-27,Gems,Hyderabad,Supermarket,Debit Card,33,416,20,20,124,8320,6656
+29-Aug-27,Crunchie,Pune,Retail Store,Debit Card,25,201,20,20,57,4020,3216
+31-Aug-27,Dairy Milk,Chennai,Supermarket,Debit Card,27,102,107,10,52,10914,9822.6
+04-Sep-27,Crunchie,Pune,Distributor,Debit Card,19,147,183,5,86,26901,25555.95
+05-Sep-27,Crunchie,Pune,Retail Store,Debit Card,44,48,125,15,1,6000,5100
+08-Sep-27,Fuse,Kolkata,Online,Debit Card,16,429,74,0,147,31746,31746
+25-Sep-27,Fuse,Bangalore,Retail Store,Debit Card,41,480,119,5,76,57120,54264
+27-Sep-27,Perk,Mumbai,Distributor,Debit Card,50,139,180,10,23,25020,22518
+01-Jan-25,Silk,Chennai,Online,Wallet,17,461,40,10,129,18440,16596
+15-Jan-25,Crunchie,Chennai,Online,Wallet,54,257,199,10,72,51143,46028.7
+21-Jan-25,Bournville,Pune,Retail Store,Wallet,32,211,115,10,9,24265,21838.5
+23-Jan-25,5 Star,Chennai,Retail Store,Wallet,36,66,193,5,7,12738,12101.1
+29-Jan-25,Crunchie,Mumbai,Retail Store,Wallet,54,26,27,10,148,702,631.8
+30-Jan-25,Fuse,Chennai,Retail Store,Wallet,29,331,124,15,49,41044,34887.4
+04-Feb-25,Bournville,Delhi,Online,Wallet,49,327,24,20,136,7848,6278.4
+08-Feb-25,Dairy Milk,Mumbai,Distributor,Wallet,43,483,90,10,37,43470,39123
+17-Feb-25,Silk,Delhi,Online,Wallet,22,275,47,0,133,12925,12925
+19-Feb-25,Bournville,Mumbai,Online,Wallet,43,354,80,5,50,28320,26904
+28-Feb-25,Perk,Chennai,Distributor,Wallet,15,163,150,20,84,24450,19560
+05-Mar-25,Dairy Milk,Hyderabad,Online,Wallet,31,166,197,15,186,32702,27796.7
+08-Mar-25,Fuse,Pune,Online,Wallet,21,484,104,15,56,50336,42785.6
+12-Mar-25,5 Star,Chennai,Retail Store,Wallet,54,117,81,20,26,9477,7581.6
+25-Mar-25,Crunchie,Kolkata,Supermarket,Wallet,42,292,81,15,86,23652,20104.2
+26-Mar-25,Silk,Kolkata,Online,Wallet,15,275,71,20,30,19525,15620
+27-Mar-25,Perk,Pune,Retail Store,Wallet,56,82,194,10,63,15908,14317.2
+05-Apr-25,Bournville,Mumbai,Supermarket,Wallet,38,267,68,10,178,18156,16340.4
+08-Apr-25,Fuse,Hyderabad,Distributor,Wallet,38,74,78,15,109,5772,4906.2
+13-Apr-25,5 Star,Mumbai,Distributor,Wallet,53,318,178,20,171,56604,45283.2
+17-Apr-25,Bournville,Kolkata,Online,Wallet,48,444,159,5,179,70596,67066.2
+21-Apr-25,Crunchie,Pune,Retail Store,Wallet,15,257,136,20,185,34952,27961.6
+25-Apr-25,Silk,Chennai,Supermarket,Wallet,24,423,29,5,12,12267,11653.65
+28-Apr-25,Bournville,Chennai,Distributor,Wallet,56,458,173,20,67,79234,63387.2
+13-May-25,Dairy Milk,Bangalore,Distributor,Wallet,45,115,22,10,56,2530,2277
+20-May-25,Dairy Milk,Hyderabad,Online,Wallet,55,339,154,15,82,52206,44375.1
+26-May-25,Silk,Bangalore,Supermarket,Wallet,35,253,91,5,185,23023,21871.85
+08-Jun-25,Dairy Milk,Kolkata,Supermarket,Wallet,30,412,62,15,150,25544,21712.4
+12-Jun-25,Crunchie,Kolkata,Distributor,Wallet,19,52,170,5,31,8840,8398
+18-Jun-25,Silk,Delhi,Distributor,Wallet,30,177,10,10,76,1770,1593
+19-Jun-25,Bournville,Delhi,Supermarket,Wallet,38,48,53,5,168,2544,2416.8
+21-Jun-25,Gems,Hyderabad,Supermarket,Wallet,22,254,107,5,109,27178,25819.1
+26-Jun-25,Perk,Delhi,Retail Store,Wallet,22,56,194,5,6,10864,10320.8
+30-Jun-25,Gems,Bangalore,Retail Store,Wallet,28,78,199,15,98,15522,13193.7
+03-Jul-25,Perk,Chennai,Supermarket,Wallet,57,299,116,10,197,34684,31215.6
+05-Jul-25,Gems,Chennai,Distributor,Wallet,17,212,199,5,131,42188,40078.6
+11-Jul-25,Perk,Chennai,Retail Store,Wallet,55,170,26,20,150,4420,3536
+19-Jul-25,Perk,Pune,Supermarket,Wallet,34,47,187,5,103,8789,8349.55
+24-Jul-25,Fuse,Kolkata,Distributor,Wallet,25,328,124,0,152,40672,40672
+02-Aug-25,Silk,Mumbai,Online,Wallet,46,247,112,15,181,27664,23514.4
+05-Aug-25,Fuse,Bangalore,Online,Wallet,19,499,15,15,55,7485,6362.25
+10-Aug-25,Perk,Chennai,Supermarket,Wallet,43,354,128,0,102,45312,45312
+12-Aug-25,Fuse,Bangalore,Online,Wallet,30,378,124,20,108,46872,37497.6
+16-Aug-25,Bournville,Hyderabad,Retail Store,Wallet,24,191,173,10,74,33043,29738.7
+17-Aug-25,Dairy Milk,Pune,Distributor,Wallet,58,46,67,15,41,3082,2619.7
+18-Aug-25,Gems,Chennai,Supermarket,Wallet,57,146,22,0,165,3212,3212
+21-Aug-25,Fuse,Kolkata,Online,Wallet,43,196,41,10,32,8036,7232.4
+22-Aug-25,Fuse,Delhi,Distributor,Wallet,33,350,114,0,70,39900,39900
+25-Aug-25,Bournville,Chennai,Supermarket,Wallet,54,67,195,0,199,13065,13065
+27-Aug-25,Perk,Kolkata,Distributor,Wallet,21,132,113,0,50,14916,14916
+28-Aug-25,Crunchie,Bangalore,Supermarket,Wallet,53,197,193,5,73,38021,36119.95
+31-Aug-25,Fuse,Pune,Online,Wallet,23,429,179,20,142,76791,61432.8
+01-Sep-25,Dairy Milk,Chennai,Retail Store,Wallet,13,123,57,20,165,7011,5608.8
+02-Sep-25,Silk,Delhi,Retail Store,Wallet,52,261,49,20,142,12789,10231.2
+04-Sep-25,Dairy Milk,Kolkata,Supermarket,Wallet,46,46,123,15,82,5658,4809.3
+05-Sep-25,Dairy Milk,Mumbai,Supermarket,Wallet,41,344,141,5,181,48504,46078.8
+12-Sep-25,Dairy Milk,Mumbai,Retail Store,Wallet,51,195,85,20,79,16575,13260
+14-Sep-25,Silk,Chennai,Online,Wallet,41,214,128,0,24,27392,27392
+23-Sep-25,5 Star,Bangalore,Online,Wallet,48,333,157,0,170,52281,52281
+25-Sep-25,Crunchie,Delhi,Online,Wallet,51,216,19,10,62,4104,3693.6
+27-Sep-25,Perk,Hyderabad,Distributor,Wallet,16,320,161,5,104,51520,48944
+29-Sep-25,Crunchie,Kolkata,Supermarket,Wallet,12,471,195,15,92,91845,78068.25
+08-Oct-25,Fuse,Pune,Distributor,Wallet,25,142,184,20,68,26128,20902.4
+14-Oct-25,Dairy Milk,Pune,Distributor,Wallet,46,460,141,10,111,64860,58374
+22-Oct-25,5 Star,Hyderabad,Retail Store,Wallet,56,138,167,20,48,23046,18436.8
+24-Oct-25,Bournville,Hyderabad,Retail Store,Wallet,49,149,131,20,37,19519,15615.2
+27-Oct-25,Crunchie,Kolkata,Retail Store,Wallet,51,321,186,0,131,59706,59706
+28-Oct-25,Dairy Milk,Bangalore,Distributor,Wallet,28,243,125,10,176,30375,27337.5
+01-Nov-25,5 Star,Chennai,Retail Store,Wallet,49,70,152,10,129,10640,9576
+05-Nov-25,Crunchie,Mumbai,Online,Wallet,24,353,34,0,110,12002,12002
+07-Nov-25,Crunchie,Delhi,Online,Wallet,42,246,130,20,47,31980,25584
+18-Nov-25,Gems,Bangalore,Retail Store,Wallet,12,371,158,20,26,58618,46894.4
+19-Nov-25,Fuse,Kolkata,Retail Store,Wallet,28,323,113,20,195,36499,29199.2
+07-Dec-25,Perk,Pune,Retail Store,Wallet,43,474,11,0,86,5214,5214
+12-Dec-25,Silk,Mumbai,Supermarket,Wallet,26,423,20,10,15,8460,7614
+13-Dec-25,Perk,Bangalore,Supermarket,Wallet,33,322,117,5,164,37674,35790.3
+29-Dec-25,Dairy Milk,Mumbai,Online,Wallet,26,256,98,0,6,25088,25088
+02-Jan-26,Bournville,Hyderabad,Distributor,Wallet,29,494,31,0,33,15314,15314
+09-Jan-26,Crunchie,Bangalore,Online,Wallet,19,298,179,0,196,53342,53342
+10-Jan-26,Dairy Milk,Mumbai,Distributor,Wallet,52,423,158,0,121,66834,66834
+11-Jan-26,Fuse,Kolkata,Supermarket,Wallet,17,218,88,5,137,19184,18224.8
+17-Jan-26,Bournville,Kolkata,Distributor,Wallet,12,131,184,5,148,24104,22898.8
+18-Jan-26,Fuse,Chennai,Retail Store,Wallet,54,147,26,0,135,3822,3822
+21-Jan-26,Crunchie,Chennai,Supermarket,Wallet,38,171,150,20,112,25650,20520
+22-Jan-26,Perk,Kolkata,Supermarket,Wallet,45,210,154,5,77,32340,30723
+28-Jan-26,Crunchie,Pune,Distributor,Wallet,24,256,172,15,68,44032,37427.2
+30-Jan-26,Perk,Hyderabad,Online,Wallet,17,255,23,15,184,5865,4985.25
+31-Jan-26,Fuse,Delhi,Retail Store,Wallet,59,136,81,15,61,11016,9363.6
+04-Feb-26,Dairy Milk,Delhi,Supermarket,Wallet,34,391,36,0,165,14076,14076
+07-Feb-26,Perk,Chennai,Retail Store,Wallet,44,81,172,5,146,13932,13235.4
+12-Feb-26,Crunchie,Hyderabad,Online,Wallet,34,455,160,15,96,72800,61880
+22-Feb-26,5 Star,Chennai,Retail Store,Wallet,28,443,26,20,56,11518,9214.4
+27-Feb-26,Bournville,Hyderabad,Supermarket,Wallet,20,427,53,0,91,22631,22631
+10-Mar-26,Crunchie,Kolkata,Distributor,Wallet,50,304,172,20,20,52288,41830.4
+16-Mar-26,Perk,Kolkata,Retail Store,Wallet,29,278,161,15,18,44758,38044.3
+19-Mar-26,Dairy Milk,Chennai,Supermarket,Wallet,55,314,154,5,192,48356,45938.2
+25-Mar-26,Silk,Chennai,Retail Store,Wallet,48,318,41,15,152,13038,11082.3
+26-Mar-26,Bournville,Delhi,Retail Store,Wallet,24,202,173,0,126,34946,34946
+27-Mar-26,Bournville,Kolkata,Retail Store,Wallet,47,250,150,20,54,37500,30000
+01-Apr-26,Perk,Kolkata,Online,Wallet,20,260,121,15,183,31460,26741
+05-Apr-26,Perk,Chennai,Online,Wallet,44,38,153,10,114,5814,5232.6
+07-Apr-26,Gems,Delhi,Online,Wallet,56,425,141,10,86,59925,53932.5
+19-Apr-26,Fuse,Bangalore,Retail Store,Wallet,39,95,54,0,16,5130,5130
+22-Apr-26,Dairy Milk,Pune,Online,Wallet,55,373,117,10,1,43641,39276.9
+25-Apr-26,Fuse,Pune,Retail Store,Wallet,51,242,134,10,99,32428,29185.2
+08-May-26,Dairy Milk,Hyderabad,Online,Wallet,48,439,103,0,152,45217,45217
+18-May-26,Gems,Bangalore,Online,Wallet,36,145,115,10,145,16675,15007.5
+21-May-26,Dairy Milk,Delhi,Distributor,Wallet,49,213,177,10,11,37701,33930.9
+25-May-26,5 Star,Delhi,Supermarket,Wallet,40,301,121,10,98,36421,32778.9
+28-May-26,Silk,Chennai,Distributor,Wallet,47,125,76,0,78,9500,9500
+31-May-26,Perk,Kolkata,Supermarket,Wallet,12,182,52,20,14,9464,7571.2
+02-Jun-26,Bournville,Chennai,Supermarket,Wallet,39,331,105,10,151,34755,31279.5
+08-Jun-26,Silk,Pune,Distributor,Wallet,23,230,44,10,147,10120,9108
+09-Jun-26,5 Star,Mumbai,Distributor,Wallet,38,132,31,15,64,4092,3478.2
+10-Jun-26,Silk,Mumbai,Online,Wallet,53,243,159,0,176,38637,38637
+13-Jun-26,5 Star,Delhi,Supermarket,Wallet,52,348,12,5,9,4176,3967.2
+15-Jun-26,Dairy Milk,Bangalore,Distributor,Wallet,48,191,69,0,122,13179,13179
+02-Jul-26,Fuse,Chennai,Supermarket,Wallet,20,244,121,15,71,29524,25095.4
+11-Jul-26,Crunchie,Bangalore,Retail Store,Wallet,33,491,87,0,199,42717,42717
+14-Jul-26,Bournville,Mumbai,Retail Store,Wallet,14,57,57,15,81,3249,2761.65
+22-Jul-26,Crunchie,Kolkata,Retail Store,Wallet,26,377,135,5,155,50895,48350.25
+30-Jul-26,Bournville,Pune,Online,Wallet,16,494,25,20,165,12350,9880
+04-Aug-26,Bournville,Mumbai,Supermarket,Wallet,43,68,15,20,134,1020,816
+06-Aug-26,Fuse,Delhi,Retail Store,Wallet,33,101,117,10,94,11817,10635.3
+08-Aug-26,Bournville,Pune,Supermarket,Wallet,28,392,57,5,105,22344,21226.8
+11-Aug-26,Perk,Delhi,Distributor,Wallet,18,422,197,10,177,83134,74820.6
+16-Aug-26,Gems,Delhi,Online,Wallet,56,488,164,20,102,80032,64025.6
+19-Aug-26,Fuse,Delhi,Online,Wallet,24,73,81,0,73,5913,5913
+23-Aug-26,Bournville,Bangalore,Distributor,Wallet,58,494,183,10,195,90402,81361.8
+29-Aug-26,Perk,Kolkata,Retail Store,Wallet,58,179,26,0,197,4654,4654
+30-Aug-26,Silk,Delhi,Distributor,Wallet,49,454,72,5,44,32688,31053.6
+11-Sep-26,Silk,Bangalore,Distributor,Wallet,49,395,110,15,194,43450,36932.5
+12-Sep-26,Perk,Chennai,Retail Store,Wallet,38,103,167,15,2,17201,14620.85
+19-Sep-26,Gems,Mumbai,Supermarket,Wallet,17,345,134,15,175,46230,39295.5
+27-Sep-26,5 Star,Chennai,Online,Wallet,42,288,115,0,87,33120,33120
+02-Oct-26,Crunchie,Chennai,Retail Store,Wallet,40,393,64,20,136,25152,20121.6
+06-Oct-26,Dairy Milk,Chennai,Distributor,Wallet,54,204,79,0,151,16116,16116
+26-Oct-26,Bournville,Pune,Retail Store,Wallet,48,446,189,0,98,84294,84294
+04-Nov-26,Bournville,Pune,Distributor,Wallet,15,349,194,0,21,67706,67706
+05-Nov-26,Bournville,Kolkata,Supermarket,Wallet,55,366,157,0,110,57462,57462
+14-Nov-26,Silk,Hyderabad,Retail Store,Wallet,19,31,135,10,102,4185,3766.5
+22-Nov-26,5 Star,Bangalore,Supermarket,Wallet,41,325,86,0,119,27950,27950
+25-Nov-26,Fuse,Delhi,Distributor,Wallet,50,187,115,0,39,21505,21505
+02-Dec-26,5 Star,Chennai,Online,Wallet,55,241,172,15,119,41452,35234.2
+03-Dec-26,Crunchie,Hyderabad,Online,Wallet,20,264,194,20,4,51216,40972.8
+04-Dec-26,Dairy Milk,Chennai,Online,Wallet,48,422,94,20,10,39668,31734.4
+05-Dec-26,Crunchie,Kolkata,Retail Store,Wallet,21,464,198,20,125,91872,73497.6
+12-Dec-26,Silk,Kolkata,Distributor,Wallet,32,340,196,15,161,66640,56644
+21-Dec-26,Fuse,Pune,Distributor,Wallet,48,149,55,0,190,8195,8195
+23-Dec-26,Perk,Kolkata,Supermarket,Wallet,40,454,168,10,19,76272,68644.8
+25-Dec-26,Dairy Milk,Bangalore,Supermarket,Wallet,55,100,97,20,177,9700,7760
+07-Jan-27,Fuse,Chennai,Distributor,Wallet,14,378,74,0,165,27972,27972
+13-Jan-27,5 Star,Bangalore,Supermarket,Wallet,50,468,33,5,92,15444,14671.8
+17-Jan-27,Perk,Mumbai,Supermarket,Wallet,28,95,163,20,51,15485,12388
+28-Jan-27,Perk,Mumbai,Retail Store,Wallet,56,216,139,5,137,30024,28522.8
+04-Feb-27,Gems,Chennai,Retail Store,Wallet,16,206,34,20,86,7004,5603.2
+17-Feb-27,Crunchie,Pune,Online,Wallet,23,83,31,5,118,2573,2444.35
+20-Feb-27,Dairy Milk,Bangalore,Supermarket,Wallet,56,162,36,15,44,5832,4957.2
+21-Feb-27,Perk,Mumbai,Distributor,Wallet,18,285,50,20,147,14250,11400
+01-Mar-27,Silk,Bangalore,Supermarket,Wallet,15,192,82,15,127,15744,13382.4
+11-Mar-27,Perk,Delhi,Retail Store,Wallet,30,397,74,5,153,29378,27909.1
+28-Mar-27,Dairy Milk,Bangalore,Retail Store,Wallet,47,385,112,0,10,43120,43120
+05-Apr-27,Crunchie,Pune,Online,Wallet,45,68,151,20,45,10268,8214.4
+06-Apr-27,Fuse,Hyderabad,Supermarket,Wallet,34,354,171,5,65,60534,57507.3
+14-Apr-27,Fuse,Delhi,Distributor,Wallet,21,336,31,20,98,10416,8332.8
+25-Apr-27,Gems,Kolkata,Distributor,Wallet,39,102,27,20,50,2754,2203.2
+27-Apr-27,5 Star,Delhi,Supermarket,Wallet,49,151,160,5,125,24160,22952
+03-May-27,Gems,Delhi,Supermarket,Wallet,34,384,113,20,187,43392,34713.6
+04-May-27,Perk,Hyderabad,Retail Store,Wallet,41,68,149,10,188,10132,9118.8
+05-May-27,Silk,Delhi,Retail Store,Wallet,48,52,153,15,158,7956,6762.6
+07-May-27,Perk,Mumbai,Retail Store,Wallet,59,277,96,10,113,26592,23932.8
+11-May-27,Fuse,Mumbai,Supermarket,Wallet,58,231,41,0,48,9471,9471
+12-May-27,Dairy Milk,Mumbai,Online,Wallet,47,175,24,5,69,4200,3990
+14-May-27,5 Star,Mumbai,Distributor,Wallet,27,165,154,15,130,25410,21598.5
+21-May-27,Gems,Delhi,Online,Wallet,53,302,36,5,14,10872,10328.4
+28-May-27,5 Star,Chennai,Online,Wallet,43,84,106,10,179,8904,8013.6
+29-May-27,Gems,Chennai,Online,Wallet,21,465,40,10,46,18600,16740
+02-Jun-27,Perk,Hyderabad,Online,Wallet,59,159,119,15,54,18921,16082.85
+09-Jun-27,Dairy Milk,Pune,Distributor,Wallet,36,218,142,0,185,30956,30956
+20-Jun-27,Gems,Kolkata,Distributor,Wallet,12,54,181,5,20,9774,9285.3
+29-Jun-27,Bournville,Delhi,Retail Store,Wallet,24,265,25,10,45,6625,5962.5
+30-Jun-27,Perk,Pune,Supermarket,Wallet,17,82,108,5,30,8856,8413.2
+04-Jul-27,Fuse,Kolkata,Distributor,Wallet,28,302,67,5,93,20234,19222.3
+07-Jul-27,Fuse,Mumbai,Supermarket,Wallet,58,248,138,20,28,34224,27379.2
+08-Jul-27,Fuse,Kolkata,Retail Store,Wallet,56,232,90,5,79,20880,19836
+16-Jul-27,Gems,Hyderabad,Supermarket,Wallet,43,375,170,0,150,63750,63750
+17-Jul-27,Fuse,Kolkata,Retail Store,Wallet,15,285,140,20,168,39900,31920
+23-Jul-27,Dairy Milk,Hyderabad,Supermarket,Wallet,25,442,82,10,165,36244,32619.6
+27-Jul-27,Gems,Bangalore,Online,Wallet,15,359,111,15,72,39849,33871.65
+31-Jul-27,Gems,Delhi,Online,Wallet,17,107,150,20,178,16050,12840
+04-Aug-27,Silk,Chennai,Online,Wallet,12,67,61,15,132,4087,3473.95
+05-Aug-27,Gems,Kolkata,Retail Store,Wallet,16,299,120,15,41,35880,30498
+10-Aug-27,Fuse,Pune,Supermarket,Wallet,24,225,51,15,26,11475,9753.75
+11-Aug-27,Gems,Delhi,Online,Wallet,59,403,99,10,57,39897,35907.3
+12-Aug-27,Fuse,Hyderabad,Distributor,Wallet,46,425,124,20,45,52700,42160
+14-Aug-27,Perk,Pune,Distributor,Wallet,23,280,160,20,24,44800,35840
+16-Aug-27,Dairy Milk,Kolkata,Distributor,Wallet,54,93,86,20,116,7998,6398.4
+20-Aug-27,Dairy Milk,Mumbai,Retail Store,Wallet,42,305,193,20,73,58865,47092
+23-Aug-27,Silk,Chennai,Supermarket,Wallet,34,245,21,0,152,5145,5145
+02-Sep-27,Fuse,Kolkata,Online,Wallet,29,65,28,20,57,1820,1456
+13-Sep-27,5 Star,Delhi,Online,Wallet,44,110,127,10,192,13970,12573
+19-Sep-27,Fuse,Mumbai,Retail Store,Wallet,59,457,70,20,45,31990,25592
+08-Jan-25,Gems,Hyderabad,Retail Store,Cash,41,224,177,20,124,39648,31718.4
+13-Jan-25,Perk,Delhi,Online,Cash,23,319,121,0,126,38599,38599
+16-Jan-25,Gems,Pune,Online,Cash,12,413,96,15,1,39648,33700.8
+20-Jan-25,Perk,Mumbai,Retail Store,Cash,48,328,192,15,52,62976,53529.6
+22-Jan-25,Gems,Pune,Supermarket,Cash,42,370,190,0,111,70300,70300
+28-Jan-25,5 Star,Kolkata,Distributor,Cash,32,211,185,15,85,39035,33179.75
+31-Jan-25,Gems,Mumbai,Supermarket,Cash,47,15,177,0,166,2655,2655
+01-Feb-25,Dairy Milk,Pune,Supermarket,Cash,46,67,154,10,19,10318,9286.2
+09-Feb-25,Perk,Chennai,Supermarket,Cash,14,477,41,20,188,19557,15645.6
+10-Feb-25,Perk,Delhi,Online,Cash,14,434,146,15,43,63364,53859.4
+20-Feb-25,Silk,Hyderabad,Retail Store,Cash,47,300,57,0,37,17100,17100
+23-Feb-25,Fuse,Bangalore,Supermarket,Cash,50,133,192,10,9,25536,22982.4
+24-Feb-25,Silk,Mumbai,Distributor,Cash,45,289,48,15,119,13872,11791.2
+26-Feb-25,Crunchie,Kolkata,Supermarket,Cash,48,175,98,0,148,17150,17150
+01-Mar-25,Gems,Delhi,Online,Cash,48,436,118,15,56,51448,43730.8
+18-Mar-25,Fuse,Hyderabad,Retail Store,Cash,16,423,129,15,25,54567,46381.95
+28-Mar-25,Bournville,Pune,Retail Store,Cash,16,490,15,10,198,7350,6615
+30-Mar-25,Fuse,Chennai,Online,Cash,35,57,108,15,1,6156,5232.6
+01-Apr-25,Crunchie,Delhi,Online,Cash,22,242,140,0,174,33880,33880
+11-Apr-25,Silk,Delhi,Supermarket,Cash,26,482,98,5,124,47236,44874.2
+12-Apr-25,5 Star,Mumbai,Retail Store,Cash,41,275,136,20,29,37400,29920
+16-Apr-25,5 Star,Kolkata,Supermarket,Cash,53,159,136,5,86,21624,20542.8
+23-Apr-25,Crunchie,Delhi,Distributor,Cash,20,365,123,20,160,44895,35916
+27-Apr-25,Dairy Milk,Pune,Retail Store,Cash,28,293,191,5,88,55963,53164.85
+01-May-25,Crunchie,Pune,Supermarket,Cash,33,77,26,0,93,2002,2002
+02-May-25,Gems,Chennai,Online,Cash,15,16,161,20,18,2576,2060.8
+03-May-25,5 Star,Kolkata,Retail Store,Cash,16,314,67,15,185,21038,17882.3
+17-May-25,Dairy Milk,Delhi,Retail Store,Cash,57,185,25,20,157,4625,3700
+25-May-25,Crunchie,Mumbai,Retail Store,Cash,39,428,103,10,122,44084,39675.6
+05-Jun-25,5 Star,Delhi,Distributor,Cash,51,82,152,20,25,12464,9971.2
+07-Jun-25,5 Star,Delhi,Distributor,Cash,35,419,117,15,15,49023,41669.55
+09-Jun-25,Fuse,Mumbai,Supermarket,Cash,48,257,137,10,167,35209,31688.1
+11-Jun-25,Dairy Milk,Kolkata,Supermarket,Cash,32,282,167,0,72,47094,47094
+16-Jun-25,Crunchie,Bangalore,Online,Cash,48,443,191,5,73,84613,80382.35
+17-Jun-25,Silk,Mumbai,Supermarket,Cash,47,221,120,20,51,26520,21216
+24-Jun-25,Crunchie,Pune,Distributor,Cash,23,489,24,10,105,11736,10562.4
+15-Jul-25,5 Star,Pune,Distributor,Cash,49,103,160,15,122,16480,14008
+20-Jul-25,Silk,Mumbai,Distributor,Cash,26,136,111,0,79,15096,15096
+22-Jul-25,Silk,Mumbai,Online,Cash,22,173,63,20,52,10899,8719.2
+25-Jul-25,Gems,Chennai,Online,Cash,38,86,148,5,43,12728,12091.6
+29-Jul-25,Gems,Mumbai,Retail Store,Cash,58,367,124,5,96,45508,43232.6
+01-Aug-25,Gems,Mumbai,Distributor,Cash,56,100,92,0,68,9200,9200
+26-Aug-25,Bournville,Delhi,Online,Cash,14,372,108,15,100,40176,34149.6
+07-Sep-25,Perk,Hyderabad,Supermarket,Cash,58,27,164,5,9,4428,4206.6
+09-Sep-25,Dairy Milk,Pune,Supermarket,Cash,30,72,120,20,3,8640,6912
+22-Sep-25,Perk,Mumbai,Distributor,Cash,26,97,35,0,145,3395,3395
+30-Sep-25,Crunchie,Bangalore,Supermarket,Cash,47,431,36,15,168,15516,13188.6
+01-Oct-25,Crunchie,Kolkata,Distributor,Cash,46,251,122,15,172,30622,26028.7
+02-Oct-25,Dairy Milk,Chennai,Distributor,Cash,13,130,24,10,177,3120,2808
+03-Oct-25,Fuse,Pune,Supermarket,Cash,51,394,172,0,27,67768,67768
+04-Oct-25,Dairy Milk,Kolkata,Retail Store,Cash,34,111,114,10,169,12654,11388.6
+05-Oct-25,Bournville,Mumbai,Supermarket,Cash,20,47,190,15,79,8930,7590.5
+09-Oct-25,Fuse,Mumbai,Retail Store,Cash,15,211,171,0,97,36081,36081
+19-Oct-25,Perk,Hyderabad,Online,Cash,56,300,138,15,169,41400,35190
+20-Oct-25,Dairy Milk,Mumbai,Online,Cash,43,461,98,20,166,45178,36142.4
+26-Oct-25,Gems,Chennai,Retail Store,Cash,13,292,93,0,149,27156,27156
+29-Oct-25,Dairy Milk,Chennai,Distributor,Cash,45,32,199,10,58,6368,5731.2
+31-Oct-25,Bournville,Chennai,Retail Store,Cash,27,286,47,20,198,13442,10753.6
+04-Nov-25,5 Star,Kolkata,Supermarket,Cash,37,61,55,20,158,3355,2684
+22-Nov-25,Bournville,Mumbai,Retail Store,Cash,24,106,147,5,163,15582,14802.9
+23-Nov-25,Perk,Chennai,Distributor,Cash,32,378,98,20,194,37044,29635.2
+24-Nov-25,Silk,Chennai,Supermarket,Cash,30,222,189,20,112,41958,33566.4
+28-Nov-25,Dairy Milk,Pune,Retail Store,Cash,42,118,190,20,48,22420,17936
+01-Dec-25,Bournville,Pune,Retail Store,Cash,43,159,65,15,55,10335,8784.75
+02-Dec-25,Crunchie,Delhi,Online,Cash,21,434,196,0,195,85064,85064
+03-Dec-25,Gems,Hyderabad,Supermarket,Cash,21,127,111,5,94,14097,13392.15
+18-Dec-25,Dairy Milk,Pune,Distributor,Cash,19,248,198,10,146,49104,44193.6
+20-Dec-25,Crunchie,Chennai,Supermarket,Cash,23,96,191,0,44,18336,18336
+21-Dec-25,Crunchie,Hyderabad,Online,Cash,42,150,131,15,145,19650,16702.5
+25-Dec-25,Dairy Milk,Bangalore,Retail Store,Cash,45,121,193,0,51,23353,23353
+01-Jan-26,Silk,Pune,Distributor,Cash,37,459,192,5,67,88128,83721.6
+05-Jan-26,Silk,Bangalore,Supermarket,Cash,49,27,120,10,54,3240,2916
+07-Jan-26,Crunchie,Hyderabad,Supermarket,Cash,34,159,74,0,41,11766,11766
+15-Jan-26,Dairy Milk,Mumbai,Online,Cash,39,435,17,15,127,7395,6285.75
+01-Feb-26,Crunchie,Mumbai,Retail Store,Cash,23,156,198,20,51,30888,24710.4
+06-Feb-26,Fuse,Mumbai,Supermarket,Cash,40,161,168,0,62,27048,27048
+10-Feb-26,Fuse,Delhi,Retail Store,Cash,21,184,67,10,140,12328,11095.2
+14-Feb-26,Bournville,Bangalore,Online,Cash,32,28,35,20,42,980,784
+20-Feb-26,Dairy Milk,Delhi,Distributor,Cash,55,458,155,15,94,70990,60341.5
+26-Feb-26,5 Star,Mumbai,Retail Store,Cash,41,394,137,10,20,53978,48580.2
+28-Feb-26,Perk,Pune,Distributor,Cash,32,102,128,20,126,13056,10444.8
+07-Mar-26,Dairy Milk,Chennai,Retail Store,Cash,28,329,156,15,155,51324,43625.4
+08-Mar-26,Bournville,Mumbai,Online,Cash,48,326,157,20,4,51182,40945.6
+11-Mar-26,Fuse,Kolkata,Supermarket,Cash,39,137,169,5,17,23153,21995.35
+31-Mar-26,Gems,Kolkata,Supermarket,Cash,20,34,174,5,97,5916,5620.2
+03-Apr-26,Crunchie,Mumbai,Distributor,Cash,22,396,49,10,111,19404,17463.6
+17-Apr-26,Crunchie,Mumbai,Supermarket,Cash,29,330,180,15,19,59400,50490
+27-Apr-26,Bournville,Chennai,Distributor,Cash,47,215,39,15,16,8385,7127.25
+28-Apr-26,Gems,Chennai,Supermarket,Cash,32,422,155,15,68,65410,55598.5
+01-May-26,Bournville,Kolkata,Supermarket,Cash,24,459,176,0,198,80784,80784
+06-May-26,Crunchie,Hyderabad,Online,Cash,57,148,182,5,172,26936,25589.2
+09-May-26,Bournville,Kolkata,Distributor,Cash,49,39,143,5,196,5577,5298.15
+10-May-26,Gems,Bangalore,Distributor,Cash,35,66,193,20,157,12738,10190.4
+16-May-26,Silk,Delhi,Supermarket,Cash,21,203,15,5,13,3045,2892.75
+19-May-26,Crunchie,Bangalore,Online,Cash,14,31,155,10,169,4805,4324.5
+27-May-26,5 Star,Pune,Online,Cash,36,229,132,10,128,30228,27205.2
+29-May-26,Bournville,Chennai,Online,Cash,37,322,115,20,31,37030,29624
+12-Jun-26,5 Star,Bangalore,Retail Store,Cash,41,332,20,10,128,6640,5976
+21-Jun-26,Crunchie,Pune,Online,Cash,44,71,82,0,85,5822,5822
+22-Jun-26,Silk,Mumbai,Online,Cash,18,141,32,10,145,4512,4060.8
+24-Jun-26,5 Star,Kolkata,Distributor,Cash,27,381,134,10,173,51054,45948.6
+28-Jun-26,5 Star,Delhi,Supermarket,Cash,24,116,125,20,166,14500,11600
+30-Jun-26,Crunchie,Chennai,Distributor,Cash,47,356,34,0,81,12104,12104
+10-Jul-26,Crunchie,Chennai,Distributor,Cash,56,133,34,20,136,4522,3617.6
+13-Jul-26,Crunchie,Kolkata,Supermarket,Cash,51,216,125,20,34,27000,21600
+21-Jul-26,5 Star,Hyderabad,Supermarket,Cash,24,366,144,20,152,52704,42163.2
+25-Jul-26,Bournville,Mumbai,Supermarket,Cash,37,304,85,20,158,25840,20672
+03-Aug-26,5 Star,Bangalore,Retail Store,Cash,26,38,153,20,0,5814,4651.2
+12-Aug-26,Fuse,Pune,Online,Cash,53,451,86,0,41,38786,38786
+15-Aug-26,Crunchie,Delhi,Distributor,Cash,21,224,68,15,139,15232,12947.2
+18-Aug-26,Fuse,Delhi,Distributor,Cash,22,286,88,0,193,25168,25168
+20-Aug-26,Gems,Chennai,Online,Cash,19,355,16,20,107,5680,4544
+21-Aug-26,Silk,Mumbai,Retail Store,Cash,51,301,120,20,121,36120,28896
+26-Aug-26,Fuse,Mumbai,Supermarket,Cash,22,71,21,0,40,1491,1491
+27-Aug-26,Bournville,Mumbai,Retail Store,Cash,54,435,150,20,118,65250,52200
+28-Aug-26,Silk,Hyderabad,Distributor,Cash,12,341,52,5,161,17732,16845.4
+04-Sep-26,5 Star,Hyderabad,Online,Cash,57,17,99,20,43,1683,1346.4
+05-Sep-26,Fuse,Mumbai,Distributor,Cash,37,113,45,10,14,5085,4576.5
+06-Sep-26,5 Star,Kolkata,Online,Cash,16,68,37,0,77,2516,2516
+09-Sep-26,Dairy Milk,Mumbai,Online,Cash,22,246,184,0,100,45264,45264
+14-Sep-26,5 Star,Bangalore,Online,Cash,26,213,153,5,73,32589,30959.55
+26-Sep-26,Dairy Milk,Chennai,Supermarket,Cash,24,355,28,5,137,9940,9443
+07-Oct-26,Crunchie,Delhi,Retail Store,Cash,55,175,72,5,186,12600,11970
+11-Oct-26,Crunchie,Chennai,Supermarket,Cash,22,138,25,5,167,3450,3277.5
+13-Oct-26,Silk,Mumbai,Supermarket,Cash,22,182,191,10,53,34762,31285.8
+16-Oct-26,Gems,Chennai,Distributor,Cash,55,414,54,5,107,22356,21238.2
+21-Oct-26,Fuse,Hyderabad,Distributor,Cash,46,365,71,5,140,25915,24619.25
+02-Nov-26,Dairy Milk,Kolkata,Supermarket,Cash,37,335,125,10,91,41875,37687.5
+06-Nov-26,Fuse,Hyderabad,Retail Store,Cash,40,349,18,10,106,6282,5653.8
+19-Nov-26,Gems,Delhi,Retail Store,Cash,43,172,77,5,180,13244,12581.8
+21-Nov-26,5 Star,Mumbai,Supermarket,Cash,58,14,43,0,12,602,602
+28-Nov-26,Silk,Delhi,Supermarket,Cash,35,226,77,10,127,17402,15661.8
+01-Dec-26,Perk,Hyderabad,Supermarket,Cash,33,196,137,0,2,26852,26852
+13-Dec-26,5 Star,Hyderabad,Distributor,Cash,35,490,125,10,66,61250,55125
+15-Dec-26,Fuse,Hyderabad,Retail Store,Cash,51,390,139,5,30,54210,51499.5
+17-Dec-26,Crunchie,Bangalore,Distributor,Cash,19,47,26,0,70,1222,1222
+26-Dec-26,Dairy Milk,Delhi,Retail Store,Cash,24,489,138,15,152,67482,57359.7
+01-Jan-27,Perk,Kolkata,Online,Cash,45,172,163,5,138,28036,26634.2
+06-Jan-27,Perk,Chennai,Distributor,Cash,18,278,101,15,69,28078,23866.3
+16-Jan-27,5 Star,Bangalore,Distributor,Cash,25,300,28,5,48,8400,7980
+21-Jan-27,Crunchie,Chennai,Supermarket,Cash,31,417,84,0,132,35028,35028
+26-Jan-27,Bournville,Mumbai,Supermarket,Cash,12,425,58,20,36,24650,19720
+27-Jan-27,5 Star,Chennai,Online,Cash,37,192,153,20,63,29376,23500.8
+02-Feb-27,Gems,Mumbai,Supermarket,Cash,52,12,175,10,43,2100,1890
+09-Feb-27,Dairy Milk,Pune,Retail Store,Cash,56,34,51,10,97,1734,1560.6
+12-Feb-27,Dairy Milk,Pune,Online,Cash,15,38,114,10,93,4332,3898.8
+16-Feb-27,Dairy Milk,Chennai,Online,Cash,46,459,174,15,68,79866,67886.1
+19-Feb-27,Perk,Pune,Online,Cash,30,436,116,5,180,50576,48047.2
+25-Feb-27,Dairy Milk,Hyderabad,Distributor,Cash,51,417,98,5,93,40866,38822.7
+26-Feb-27,Silk,Mumbai,Supermarket,Cash,16,148,75,10,57,11100,9990
+04-Mar-27,Gems,Pune,Distributor,Cash,31,200,19,15,46,3800,3230
+16-Mar-27,Bournville,Hyderabad,Online,Cash,57,175,164,0,63,28700,28700
+17-Mar-27,Fuse,Kolkata,Supermarket,Cash,38,418,139,10,92,58102,52291.8
+19-Mar-27,Dairy Milk,Hyderabad,Distributor,Cash,26,212,66,0,124,13992,13992
+25-Mar-27,Fuse,Pune,Retail Store,Cash,35,64,165,0,63,10560,10560
+29-Mar-27,Perk,Chennai,Distributor,Cash,45,480,33,5,96,15840,15048
+01-Apr-27,Silk,Delhi,Supermarket,Cash,35,437,119,0,154,52003,52003
+08-Apr-27,5 Star,Delhi,Distributor,Cash,56,191,67,10,163,12797,11517.3
+09-Apr-27,Silk,Delhi,Online,Cash,16,467,85,20,110,39695,31756
+10-Apr-27,Crunchie,Bangalore,Online,Cash,42,415,159,20,81,65985,52788
+12-Apr-27,Gems,Delhi,Retail Store,Cash,17,330,182,20,192,60060,48048
+16-Apr-27,Fuse,Pune,Retail Store,Cash,18,202,89,5,158,17978,17079.1
+18-Apr-27,Gems,Kolkata,Retail Store,Cash,49,113,109,15,102,12317,10469.45
+24-Apr-27,Silk,Bangalore,Retail Store,Cash,15,218,157,0,190,34226,34226
+26-Apr-27,Gems,Bangalore,Retail Store,Cash,23,439,47,15,129,20633,17538.05
+28-Apr-27,5 Star,Delhi,Online,Cash,47,443,118,10,191,52274,47046.6
+10-May-27,Silk,Hyderabad,Distributor,Cash,59,29,55,5,84,1595,1515.25
+13-May-27,5 Star,Mumbai,Online,Cash,50,140,53,5,176,7420,7049
+15-May-27,Fuse,Mumbai,Distributor,Cash,33,193,178,0,132,34354,34354
+18-May-27,Bournville,Pune,Online,Cash,19,22,107,10,25,2354,2118.6
+20-May-27,Bournville,Kolkata,Online,Cash,42,331,118,0,4,39058,39058
+24-May-27,Dairy Milk,Hyderabad,Retail Store,Cash,45,331,113,15,0,37403,31792.55
+01-Jun-27,Bournville,Delhi,Retail Store,Cash,15,308,92,10,119,28336,25502.4
+15-Jun-27,Fuse,Chennai,Distributor,Cash,51,439,182,0,7,79898,79898
+16-Jun-27,Bournville,Delhi,Online,Cash,26,327,78,10,96,25506,22955.4
+17-Jun-27,Fuse,Kolkata,Online,Cash,43,244,98,5,116,23912,22716.4
+19-Jun-27,Perk,Mumbai,Supermarket,Cash,17,473,138,0,63,65274,65274
+27-Jun-27,Perk,Bangalore,Supermarket,Cash,40,224,166,20,7,37184,29747.2
+28-Jun-27,Silk,Kolkata,Distributor,Cash,20,97,63,5,57,6111,5805.45
+01-Jul-27,Gems,Mumbai,Distributor,Cash,17,428,29,15,92,12412,10550.2
+06-Jul-27,5 Star,Kolkata,Distributor,Cash,59,474,120,0,137,56880,56880
+09-Jul-27,Crunchie,Pune,Retail Store,Cash,12,128,166,15,35,21248,18060.8
+10-Jul-27,Gems,Hyderabad,Online,Cash,28,322,93,5,83,29946,28448.7
+14-Jul-27,Dairy Milk,Chennai,Retail Store,Cash,47,382,121,5,85,46222,43910.9
+18-Jul-27,Bournville,Mumbai,Supermarket,Cash,29,389,197,0,92,76633,76633
+21-Jul-27,Fuse,Delhi,Retail Store,Cash,46,128,118,15,155,15104,12838.4
+22-Jul-27,Dairy Milk,Kolkata,Distributor,Cash,51,277,29,15,175,8033,6828.05
+24-Jul-27,Crunchie,Pune,Distributor,Cash,44,282,176,10,158,49632,44668.8
+25-Jul-27,Dairy Milk,Kolkata,Supermarket,Cash,25,73,13,15,13,949,806.65
+26-Jul-27,Bournville,Chennai,Supermarket,Cash,45,307,28,5,116,8596,8166.2
+30-Jul-27,Fuse,Pune,Online,Cash,30,20,150,15,28,3000,2550
+06-Aug-27,Crunchie,Delhi,Online,Cash,38,260,190,10,134,49400,44460
+15-Aug-27,Fuse,Kolkata,Distributor,Cash,27,494,52,10,72,25688,23119.2
+21-Aug-27,Bournville,Bangalore,Online,Cash,15,81,48,20,169,3888,3110.4
+24-Aug-27,Dairy Milk,Mumbai,Supermarket,Cash,13,65,192,10,181,12480,11232
+30-Aug-27,Silk,Bangalore,Supermarket,Cash,14,401,47,0,69,18847,18847
+06-Sep-27,Crunchie,Chennai,Distributor,Cash,23,37,122,15,149,4514,3836.9
+07-Sep-27,Bournville,Delhi,Online,Cash,22,58,179,5,36,10382,9862.9
+11-Sep-27,Gems,Pune,Supermarket,Cash,28,489,196,0,111,95844,95844
+14-Sep-27,Fuse,Kolkata,Retail Store,Cash,16,291,184,10,128,53544,48189.6
+23-Sep-27,Gems,Bangalore,Supermarket,Cash,16,392,163,0,44,63896,63896
+24-Sep-27,Dairy Milk,Mumbai,Supermarket,Cash,13,385,111,15,153,42735,36324.75
+03-Jan-25,Gems,Mumbai,Retail Store,UPI,13,150,20,20,80,3000,2400
+07-Jan-25,Gems,Bangalore,Retail Store,UPI,27,88,19,0,135,1672,1672
+09-Jan-25,Silk,Bangalore,Online,UPI,51,23,137,0,50,3151,3151
+12-Jan-25,Silk,Chennai,Retail Store,UPI,52,137,181,10,184,24797,22317.3
+14-Jan-25,Perk,Hyderabad,Supermarket,UPI,46,486,69,5,139,33534,31857.3
+19-Jan-25,Crunchie,Kolkata,Online,UPI,37,347,66,5,123,22902,21756.9
+27-Jan-25,Bournville,Hyderabad,Retail Store,UPI,39,166,98,0,181,16268,16268
+02-Feb-25,Fuse,Kolkata,Supermarket,UPI,56,334,152,15,86,50768,43152.8
+05-Feb-25,Gems,Hyderabad,Retail Store,UPI,41,178,72,0,128,12816,12816
+07-Feb-25,Dairy Milk,Kolkata,Retail Store,UPI,45,91,22,5,165,2002,1901.9
+15-Feb-25,Fuse,Pune,Supermarket,UPI,34,80,85,5,189,6800,6460
+16-Feb-25,Crunchie,Mumbai,Distributor,UPI,51,396,181,0,121,71676,71676
+03-Mar-25,Silk,Kolkata,Distributor,UPI,12,304,143,15,38,43472,36951.2
+09-Mar-25,Dairy Milk,Delhi,Retail Store,UPI,29,50,63,0,95,3150,3150
+13-Mar-25,5 Star,Mumbai,Online,UPI,58,412,34,10,73,14008,12607.2
+15-Mar-25,5 Star,Mumbai,Supermarket,UPI,38,492,169,10,179,83148,74833.2
+17-Mar-25,5 Star,Hyderabad,Retail Store,UPI,49,331,175,5,31,57925,55028.75
+20-Mar-25,Silk,Chennai,Distributor,UPI,45,299,165,10,74,49335,44401.5
+23-Mar-25,Fuse,Pune,Retail Store,UPI,49,143,105,5,179,15015,14264.25
+29-Mar-25,Dairy Milk,Pune,Distributor,UPI,41,361,41,10,32,14801,13320.9
+15-Apr-25,5 Star,Kolkata,Retail Store,UPI,48,324,93,5,137,30132,28625.4
+20-Apr-25,Silk,Chennai,Distributor,UPI,17,388,54,10,193,20952,18856.8
+24-Apr-25,Bournville,Kolkata,Distributor,UPI,40,107,186,0,174,19902,19902
+26-Apr-25,Fuse,Bangalore,Retail Store,UPI,58,34,90,0,39,3060,3060
+29-Apr-25,Crunchie,Pune,Retail Store,UPI,43,378,138,15,41,52164,44339.4
+07-May-25,5 Star,Pune,Retail Store,UPI,45,394,183,20,139,72102,57681.6
+09-May-25,Fuse,Mumbai,Distributor,UPI,33,429,17,15,33,7293,6199.05
+15-May-25,Silk,Kolkata,Supermarket,UPI,56,297,165,5,4,49005,46554.75
+18-May-25,Dairy Milk,Mumbai,Supermarket,UPI,55,175,128,5,181,22400,21280
+19-May-25,Silk,Hyderabad,Online,UPI,32,154,11,0,12,1694,1694
+22-May-25,Dairy Milk,Pune,Retail Store,UPI,50,292,112,5,2,32704,31068.8
+28-May-25,Perk,Hyderabad,Retail Store,UPI,24,136,180,0,129,24480,24480
+30-May-25,Crunchie,Chennai,Online,UPI,45,421,158,20,155,66518,53214.4
+01-Jun-25,Perk,Pune,Retail Store,UPI,47,280,64,15,76,17920,15232
+03-Jun-25,Perk,Chennai,Online,UPI,46,102,177,0,126,18054,18054
+04-Jun-25,Gems,Delhi,Retail Store,UPI,29,388,125,0,134,48500,48500
+06-Jun-25,Silk,Delhi,Online,UPI,33,420,189,10,87,79380,71442
+20-Jun-25,Crunchie,Delhi,Supermarket,UPI,45,378,84,10,180,31752,28576.8
+22-Jun-25,Perk,Pune,Retail Store,UPI,56,160,18,20,177,2880,2304
+02-Jul-25,Bournville,Hyderabad,Online,UPI,52,441,74,20,84,32634,26107.2
+07-Jul-25,Silk,Hyderabad,Supermarket,UPI,30,443,148,15,107,65564,55729.4
+13-Jul-25,Silk,Mumbai,Retail Store,UPI,17,25,94,10,167,2350,2115
+14-Jul-25,Silk,Chennai,Distributor,UPI,47,347,177,0,150,61419,61419
+16-Jul-25,5 Star,Hyderabad,Distributor,UPI,22,313,65,20,143,20345,16276
+18-Jul-25,Gems,Mumbai,Online,UPI,35,347,95,0,67,32965,32965
+09-Aug-25,Perk,Chennai,Retail Store,UPI,44,116,47,10,76,5452,4906.8
+19-Aug-25,Bournville,Delhi,Online,UPI,42,347,61,15,67,21167,17991.95
+23-Aug-25,Fuse,Kolkata,Online,UPI,40,267,197,15,55,52599,44709.15
+24-Aug-25,Fuse,Kolkata,Retail Store,UPI,33,454,92,15,104,41768,35502.8
+29-Aug-25,5 Star,Hyderabad,Supermarket,UPI,32,239,37,10,170,8843,7958.7
+30-Aug-25,Silk,Pune,Distributor,UPI,27,177,138,5,120,24426,23204.7
+03-Sep-25,Bournville,Delhi,Online,UPI,35,116,106,0,4,12296,12296
+15-Sep-25,Bournville,Pune,Retail Store,UPI,18,269,151,10,97,40619,36557.1
+17-Sep-25,Perk,Bangalore,Online,UPI,12,265,43,10,100,11395,10255.5
+20-Sep-25,Gems,Hyderabad,Online,UPI,48,372,127,20,60,47244,37795.2
+26-Sep-25,Silk,Mumbai,Supermarket,UPI,19,138,76,10,120,10488,9439.2
+28-Sep-25,Bournville,Pune,Retail Store,UPI,20,12,14,15,3,168,142.8
+06-Oct-25,Dairy Milk,Bangalore,Distributor,UPI,45,350,53,10,75,18550,16695
+10-Oct-25,Bournville,Hyderabad,Online,UPI,41,357,104,20,0,37128,29702.4
+11-Oct-25,Silk,Chennai,Distributor,UPI,42,30,187,5,166,5610,5329.5
+12-Oct-25,5 Star,Bangalore,Distributor,UPI,49,251,93,10,95,23343,21008.7
+17-Oct-25,Crunchie,Hyderabad,Distributor,UPI,25,93,192,15,162,17856,15177.6
+08-Nov-25,Silk,Delhi,Supermarket,UPI,45,320,131,15,50,41920,35632
+17-Nov-25,Crunchie,Delhi,Supermarket,UPI,50,186,27,0,142,5022,5022
+20-Nov-25,5 Star,Chennai,Distributor,UPI,52,304,160,0,191,48640,48640
+25-Nov-25,Crunchie,Delhi,Online,UPI,30,326,70,0,85,22820,22820
+26-Nov-25,Crunchie,Chennai,Distributor,UPI,36,146,14,15,113,2044,1737.4
+04-Dec-25,Perk,Bangalore,Online,UPI,47,270,102,0,43,27540,27540
+05-Dec-25,Fuse,Hyderabad,Distributor,UPI,19,435,82,5,158,35670,33886.5
+06-Dec-25,Fuse,Chennai,Online,UPI,31,96,68,5,185,6528,6201.6
+11-Dec-25,Perk,Bangalore,Retail Store,UPI,35,460,39,20,155,17940,14352
+15-Dec-25,Crunchie,Bangalore,Distributor,UPI,15,223,176,20,144,39248,31398.4
+17-Dec-25,Fuse,Mumbai,Supermarket,UPI,34,294,132,0,76,38808,38808
+19-Dec-25,Dairy Milk,Chennai,Supermarket,UPI,29,174,134,5,157,23316,22150.2
+24-Dec-25,Crunchie,Kolkata,Retail Store,UPI,29,381,195,10,99,74295,66865.5
+26-Dec-25,Perk,Hyderabad,Supermarket,UPI,22,416,171,15,18,71136,60465.6
+04-Jan-26,Perk,Pune,Supermarket,UPI,33,117,110,20,68,12870,10296
+08-Jan-26,5 Star,Pune,Supermarket,UPI,35,255,191,10,40,48705,43834.5
+19-Jan-26,Gems,Kolkata,Online,UPI,30,124,26,20,192,3224,2579.2
+20-Jan-26,Gems,Delhi,Supermarket,UPI,20,429,99,20,91,42471,33976.8
+25-Jan-26,Dairy Milk,Chennai,Supermarket,UPI,47,20,87,5,48,1740,1653
+08-Feb-26,Dairy Milk,Bangalore,Retail Store,UPI,38,372,69,15,49,25668,21817.8
+09-Feb-26,Crunchie,Hyderabad,Supermarket,UPI,36,146,15,0,160,2190,2190
+17-Feb-26,Bournville,Hyderabad,Distributor,UPI,48,433,29,5,121,12557,11929.15
+18-Feb-26,Dairy Milk,Hyderabad,Online,UPI,44,184,143,20,107,26312,21049.6
+21-Feb-26,Gems,Delhi,Retail Store,UPI,22,422,141,5,5,59502,56526.9
+25-Feb-26,5 Star,Bangalore,Online,UPI,36,255,144,0,185,36720,36720
+03-Mar-26,Dairy Milk,Kolkata,Supermarket,UPI,30,214,72,20,115,15408,12326.4
+04-Mar-26,Fuse,Chennai,Retail Store,UPI,23,57,172,20,147,9804,7843.2
+05-Mar-26,Dairy Milk,Delhi,Retail Store,UPI,48,442,90,5,181,39780,37791
+09-Mar-26,Gems,Kolkata,Supermarket,UPI,59,422,109,15,119,45998,39098.3
+17-Mar-26,Dairy Milk,Kolkata,Online,UPI,25,334,70,20,127,23380,18704
+22-Mar-26,Perk,Kolkata,Retail Store,UPI,52,323,59,0,20,19057,19057
+24-Mar-26,Bournville,Chennai,Retail Store,UPI,29,112,108,15,66,12096,10281.6
+28-Mar-26,Bournville,Delhi,Online,UPI,42,71,67,5,179,4757,4519.15
+08-Apr-26,Bournville,Bangalore,Online,UPI,34,291,182,15,80,52962,45017.7
+11-Apr-26,Silk,Mumbai,Distributor,UPI,45,34,105,10,134,3570,3213
+12-Apr-26,Crunchie,Mumbai,Online,UPI,20,319,40,15,117,12760,10846
+21-Apr-26,Crunchie,Pune,Distributor,UPI,55,434,80,15,174,34720,29512
+29-Apr-26,Bournville,Hyderabad,Retail Store,UPI,54,348,123,10,166,42804,38523.6
+17-May-26,Gems,Delhi,Online,UPI,46,233,41,15,68,9553,8120.05
+22-May-26,Crunchie,Delhi,Distributor,UPI,28,248,131,5,16,32488,30863.6
+23-May-26,Perk,Hyderabad,Distributor,UPI,23,194,105,20,29,20370,16296
+04-Jun-26,5 Star,Bangalore,Retail Store,UPI,58,54,90,10,162,4860,4374
+06-Jun-26,Silk,Hyderabad,Distributor,UPI,51,29,142,10,108,4118,3706.2
+14-Jun-26,5 Star,Bangalore,Retail Store,UPI,45,12,146,20,46,1752,1401.6
+17-Jun-26,Dairy Milk,Bangalore,Distributor,UPI,18,329,96,15,95,31584,26846.4
+19-Jun-26,Perk,Hyderabad,Distributor,UPI,43,68,27,0,102,1836,1836
+04-Jul-26,Silk,Kolkata,Distributor,UPI,22,71,83,5,161,5893,5598.35
+08-Jul-26,Fuse,Hyderabad,Online,UPI,36,357,136,15,37,48552,41269.2
+09-Jul-26,Dairy Milk,Pune,Distributor,UPI,19,168,178,10,186,29904,26913.6
+18-Jul-26,Silk,Kolkata,Online,UPI,45,210,94,5,3,19740,18753
+19-Jul-26,Fuse,Delhi,Retail Store,UPI,45,259,158,15,166,40922,34783.7
+24-Jul-26,Silk,Hyderabad,Supermarket,UPI,55,327,11,20,149,3597,2877.6
+27-Jul-26,Dairy Milk,Bangalore,Supermarket,UPI,37,323,51,10,47,16473,14825.7
+31-Jul-26,Gems,Mumbai,Retail Store,UPI,43,220,27,0,54,5940,5940
+01-Aug-26,Bournville,Delhi,Distributor,UPI,31,201,196,20,67,39396,31516.8
+05-Aug-26,Dairy Milk,Pune,Online,UPI,39,80,194,20,184,15520,12416
+07-Aug-26,5 Star,Chennai,Online,UPI,52,274,184,20,139,50416,40332.8
+10-Aug-26,Bournville,Pune,Online,UPI,55,399,85,0,107,33915,33915
+22-Aug-26,Fuse,Kolkata,Supermarket,UPI,15,499,128,15,16,63872,54291.2
+25-Aug-26,Crunchie,Hyderabad,Online,UPI,39,479,133,20,61,63707,50965.6
+31-Aug-26,Crunchie,Chennai,Online,UPI,35,278,129,0,57,35862,35862
+02-Sep-26,Crunchie,Bangalore,Supermarket,UPI,42,63,17,15,125,1071,910.35
+07-Sep-26,Bournville,Mumbai,Supermarket,UPI,31,322,127,5,69,40894,38849.3
+08-Sep-26,Perk,Bangalore,Online,UPI,52,49,102,0,177,4998,4998
+10-Sep-26,Crunchie,Mumbai,Online,UPI,44,452,85,0,159,38420,38420
+13-Sep-26,Fuse,Chennai,Retail Store,UPI,45,231,160,20,85,36960,29568
+15-Sep-26,Silk,Kolkata,Retail Store,UPI,43,147,23,10,50,3381,3042.9
+16-Sep-26,5 Star,Hyderabad,Retail Store,UPI,32,309,80,10,66,24720,22248
+17-Sep-26,Gems,Mumbai,Online,UPI,57,404,189,10,75,76356,68720.4
+23-Sep-26,Dairy Milk,Delhi,Supermarket,UPI,25,187,184,15,119,34408,29246.8
+29-Sep-26,Dairy Milk,Mumbai,Online,UPI,14,327,73,5,51,23871,22677.45
+08-Oct-26,Gems,Kolkata,Retail Store,UPI,44,460,173,10,2,79580,71622
+10-Oct-26,Dairy Milk,Pune,Retail Store,UPI,59,70,159,5,100,11130,10573.5
+12-Oct-26,Gems,Bangalore,Supermarket,UPI,24,487,155,15,175,75485,64162.25
+17-Oct-26,Bournville,Delhi,Distributor,UPI,17,387,28,0,39,10836,10836
+23-Oct-26,Crunchie,Kolkata,Online,UPI,37,287,109,20,5,31283,25026.4
+30-Oct-26,Fuse,Bangalore,Retail Store,UPI,34,489,156,10,179,76284,68655.6
+07-Nov-26,Gems,Mumbai,Retail Store,UPI,45,213,41,0,182,8733,8733
+08-Nov-26,Fuse,Mumbai,Supermarket,UPI,28,170,141,15,66,23970,20374.5
+12-Nov-26,Crunchie,Delhi,Retail Store,UPI,13,174,157,15,68,27318,23220.3
+17-Nov-26,Bournville,Kolkata,Supermarket,UPI,19,414,31,5,40,12834,12192.3
+06-Dec-26,Gems,Kolkata,Distributor,UPI,47,113,168,0,70,18984,18984
+09-Dec-26,Crunchie,Pune,Online,UPI,39,411,190,10,137,78090,70281
+19-Dec-26,Fuse,Bangalore,Retail Store,UPI,38,36,153,5,69,5508,5232.6
+20-Dec-26,Crunchie,Pune,Retail Store,UPI,33,285,25,10,40,7125,6412.5
+28-Dec-26,Perk,Kolkata,Supermarket,UPI,21,467,128,20,198,59776,47820.8
+03-Jan-27,Dairy Milk,Bangalore,Online,UPI,43,152,59,20,124,8968,7174.4
+08-Jan-27,Gems,Mumbai,Supermarket,UPI,31,300,56,15,129,16800,14280
+12-Jan-27,Bournville,Delhi,Distributor,UPI,46,447,115,10,112,51405,46264.5
+15-Jan-27,Perk,Chennai,Supermarket,UPI,37,313,117,0,164,36621,36621
+20-Jan-27,5 Star,Delhi,Supermarket,UPI,40,471,180,5,113,84780,80541
+23-Jan-27,5 Star,Mumbai,Online,UPI,29,442,36,20,165,15912,12729.6
+24-Jan-27,5 Star,Pune,Supermarket,UPI,15,489,122,10,117,59658,53692.2
+05-Feb-27,Perk,Delhi,Distributor,UPI,12,350,105,5,15,36750,34912.5
+06-Feb-27,Gems,Chennai,Online,UPI,28,134,134,0,53,17956,17956
+15-Feb-27,Gems,Delhi,Online,UPI,32,180,56,20,58,10080,8064
+02-Mar-27,Bournville,Kolkata,Retail Store,UPI,34,37,85,0,6,3145,3145
+09-Mar-27,Silk,Kolkata,Supermarket,UPI,52,277,69,5,52,19113,18157.35
+18-Mar-27,Crunchie,Pune,Online,UPI,15,23,168,5,181,3864,3670.8
+23-Mar-27,Perk,Bangalore,Retail Store,UPI,14,411,21,0,125,8631,8631
+23-Apr-27,Dairy Milk,Pune,Retail Store,UPI,58,440,173,0,194,76120,76120
+02-May-27,5 Star,Chennai,Distributor,UPI,24,426,158,0,161,67308,67308
+19-May-27,Silk,Mumbai,Online,UPI,27,470,14,5,71,6580,6251
+26-May-27,Perk,Bangalore,Supermarket,UPI,28,447,88,15,164,39336,33435.6
+12-Jun-27,Dairy Milk,Mumbai,Distributor,UPI,52,125,162,20,173,20250,16200
+13-Jun-27,Gems,Kolkata,Distributor,UPI,35,448,104,15,138,46592,39603.2
+18-Jun-27,Silk,Hyderabad,Online,UPI,50,16,81,5,198,1296,1231.2
+22-Jun-27,Bournville,Chennai,Retail Store,UPI,34,248,105,20,114,26040,20832
+26-Jun-27,5 Star,Mumbai,Distributor,UPI,52,190,97,15,19,18430,15665.5
+15-Jul-27,Perk,Kolkata,Supermarket,UPI,43,231,188,5,70,43428,41256.6
+19-Jul-27,Dairy Milk,Delhi,Online,UPI,30,240,172,15,79,41280,35088
+17-Aug-27,5 Star,Bangalore,Supermarket,UPI,21,396,165,10,154,65340,58806
+19-Aug-27,Dairy Milk,Kolkata,Online,UPI,31,135,29,5,86,3915,3719.25
+26-Aug-27,Bournville,Pune,Online,UPI,48,369,163,0,66,60147,60147
+27-Aug-27,Bournville,Mumbai,Distributor,UPI,19,404,51,5,5,20604,19573.8
+28-Aug-27,Perk,Hyderabad,Online,UPI,18,119,164,20,124,19516,15612.8
+01-Sep-27,Perk,Pune,Retail Store,UPI,30,359,180,5,65,64620,61389
+09-Sep-27,Crunchie,Hyderabad,Retail Store,UPI,38,134,108,5,102,14472,13748.4
+12-Sep-27,Crunchie,Delhi,Retail Store,UPI,17,45,61,0,64,2745,2745
+15-Sep-27,Fuse,Chennai,Distributor,UPI,39,95,129,0,116,12255,12255
+16-Sep-27,5 Star,Bangalore,Online,UPI,25,13,16,15,115,208,176.8
+20-Sep-27,5 Star,Hyderabad,Retail Store,UPI,52,175,77,5,54,13475,12801.25
+21-Sep-27,Fuse,Chennai,Online,UPI,30,392,162,5,74,63504,60328.8
+04-Jan-25,Silk,Mumbai,Distributor,Credit Card,40,93,55,20,73,5115,4092
+10-Jan-25,5 Star,Hyderabad,Retail Store,Credit Card,13,224,161,15,10,36064,30654.4
+17-Jan-25,Fuse,Delhi,Supermarket,Credit Card,56,38,154,0,7,5852,5852
+24-Jan-25,Crunchie,Pune,Retail Store,Credit Card,34,401,18,0,35,7218,7218
+26-Jan-25,Bournville,Hyderabad,Distributor,Credit Card,49,71,150,10,13,10650,9585
+03-Feb-25,5 Star,Mumbai,Distributor,Credit Card,20,421,115,20,134,48415,38732
+06-Feb-25,Fuse,Pune,Retail Store,Credit Card,55,462,176,10,153,81312,73180.8
+11-Feb-25,Silk,Delhi,Distributor,Credit Card,39,442,49,5,85,21658,20575.1
+13-Feb-25,Crunchie,Hyderabad,Distributor,Credit Card,26,186,91,5,73,16926,16079.7
+22-Feb-25,Perk,Chennai,Supermarket,Credit Card,35,11,153,5,50,1683,1598.85
+25-Feb-25,Fuse,Hyderabad,Supermarket,Credit Card,39,83,196,0,199,16268,16268
+07-Mar-25,5 Star,Pune,Distributor,Credit Card,40,29,23,5,183,667,633.65
+10-Mar-25,Fuse,Mumbai,Online,Credit Card,39,447,141,5,47,63027,59875.65
+14-Mar-25,Dairy Milk,Chennai,Distributor,Credit Card,42,93,86,20,109,7998,6398.4
+19-Mar-25,Fuse,Bangalore,Online,Credit Card,19,318,62,10,24,19716,17744.4
+04-Apr-25,Bournville,Bangalore,Retail Store,Credit Card,37,68,186,15,34,12648,10750.8
+07-Apr-25,5 Star,Bangalore,Supermarket,Credit Card,54,461,102,15,145,47022,39968.7
+30-Apr-25,Gems,Pune,Online,Credit Card,59,310,152,10,146,47120,42408
+04-May-25,Silk,Delhi,Distributor,Credit Card,48,146,81,20,22,11826,9460.8
+05-May-25,Gems,Delhi,Supermarket,Credit Card,52,173,118,0,53,20414,20414
+10-May-25,Fuse,Chennai,Online,Credit Card,34,82,68,20,52,5576,4460.8
+11-May-25,Fuse,Mumbai,Supermarket,Credit Card,14,246,120,15,135,29520,25092
+21-May-25,Crunchie,Bangalore,Online,Credit Card,22,379,39,10,28,14781,13302.9
+23-May-25,Fuse,Mumbai,Supermarket,Credit Card,15,63,22,10,89,1386,1247.4
+27-May-25,Perk,Bangalore,Retail Store,Credit Card,46,350,22,15,75,7700,6545
+29-May-25,Dairy Milk,Pune,Retail Store,Credit Card,58,418,103,5,107,43054,40901.3
+31-May-25,Perk,Hyderabad,Supermarket,Credit Card,22,376,121,5,81,45496,43221.2
+14-Jun-25,5 Star,Chennai,Retail Store,Credit Card,16,50,61,20,140,3050,2440
+15-Jun-25,Dairy Milk,Bangalore,Retail Store,Credit Card,28,179,146,20,4,26134,20907.2
+06-Jul-25,5 Star,Mumbai,Online,Credit Card,28,70,124,15,10,8680,7378
+09-Jul-25,Bournville,Bangalore,Retail Store,Credit Card,59,327,180,20,188,58860,47088
+10-Jul-25,Silk,Pune,Distributor,Credit Card,55,323,104,10,164,33592,30232.8
+12-Jul-25,Dairy Milk,Pune,Online,Credit Card,43,340,169,20,84,57460,45968
+17-Jul-25,Fuse,Delhi,Online,Credit Card,44,147,143,20,188,21021,16816.8
+21-Jul-25,Crunchie,Kolkata,Retail Store,Credit Card,38,284,174,0,158,49416,49416
+23-Jul-25,Dairy Milk,Chennai,Distributor,Credit Card,28,452,186,15,105,84072,71461.2
+27-Jul-25,Fuse,Kolkata,Online,Credit Card,39,396,58,0,89,22968,22968
+13-Aug-25,5 Star,Kolkata,Supermarket,Credit Card,49,453,77,10,111,34881,31392.9
+14-Aug-25,5 Star,Chennai,Supermarket,Credit Card,14,293,186,15,57,54498,46323.3
+20-Aug-25,Fuse,Delhi,Distributor,Credit Card,27,65,67,10,180,4355,3919.5
+08-Sep-25,Bournville,Bangalore,Online,Credit Card,46,363,146,5,139,52998,50348.1
+11-Sep-25,Gems,Mumbai,Supermarket,Credit Card,37,148,193,15,145,28564,24279.4
+21-Sep-25,Dairy Milk,Bangalore,Supermarket,Credit Card,12,319,82,15,52,26158,22234.3
+16-Oct-25,Dairy Milk,Delhi,Online,Credit Card,14,312,185,15,87,57720,49062
+18-Oct-25,Dairy Milk,Chennai,Online,Credit Card,24,92,121,10,173,11132,10018.8
+23-Oct-25,Fuse,Chennai,Supermarket,Credit Card,30,205,140,5,189,28700,27265
+30-Oct-25,Perk,Delhi,Distributor,Credit Card,53,162,125,10,67,20250,18225
+02-Nov-25,Gems,Chennai,Distributor,Credit Card,13,328,119,5,48,39032,37080.4
+03-Nov-25,Fuse,Kolkata,Supermarket,Credit Card,13,387,189,0,125,73143,73143
+10-Nov-25,Silk,Hyderabad,Distributor,Credit Card,14,41,79,10,97,3239,2915.1
+12-Nov-25,Crunchie,Kolkata,Distributor,Credit Card,34,361,116,5,176,41876,39782.2
+13-Nov-25,Perk,Chennai,Retail Store,Credit Card,25,398,121,5,123,48158,45750.1
+15-Nov-25,Silk,Bangalore,Supermarket,Credit Card,40,119,56,10,184,6664,5997.6
+16-Nov-25,Bournville,Bangalore,Supermarket,Credit Card,50,499,100,10,110,49900,44910
+27-Nov-25,Dairy Milk,Mumbai,Retail Store,Credit Card,33,15,131,20,123,1965,1572
+10-Dec-25,5 Star,Delhi,Retail Store,Credit Card,57,473,60,20,150,28380,22704
+16-Dec-25,Silk,Kolkata,Supermarket,Credit Card,24,466,99,10,36,46134,41520.6
+22-Dec-25,Silk,Chennai,Retail Store,Credit Card,25,169,103,20,61,17407,13925.6
+31-Dec-25,Silk,Pune,Supermarket,Credit Card,40,94,138,10,116,12972,11674.8
+03-Jan-26,5 Star,Kolkata,Retail Store,Credit Card,43,143,49,5,193,7007,6656.65
+13-Jan-26,Dairy Milk,Mumbai,Distributor,Credit Card,55,244,175,0,101,42700,42700
+14-Jan-26,5 Star,Mumbai,Retail Store,Credit Card,40,425,108,5,187,45900,43605
+24-Jan-26,Dairy Milk,Hyderabad,Online,Credit Card,15,37,90,10,29,3330,2997
+26-Jan-26,Perk,Bangalore,Retail Store,Credit Card,29,215,182,5,8,39130,37173.5
+29-Jan-26,Crunchie,Chennai,Online,Credit Card,30,56,119,5,57,6664,6330.8
+02-Feb-26,Bournville,Pune,Online,Credit Card,48,127,152,0,188,19304,19304
+03-Feb-26,Crunchie,Bangalore,Supermarket,Credit Card,28,408,63,15,39,25704,21848.4
+13-Feb-26,Fuse,Chennai,Supermarket,Credit Card,32,490,171,20,189,83790,67032
+16-Feb-26,Crunchie,Delhi,Distributor,Credit Card,24,339,14,5,35,4746,4508.7
+19-Feb-26,Perk,Hyderabad,Supermarket,Credit Card,35,499,68,20,9,33932,27145.6
+23-Feb-26,Crunchie,Pune,Retail Store,Credit Card,15,363,23,5,128,8349,7931.55
+24-Feb-26,Bournville,Chennai,Supermarket,Credit Card,58,150,22,20,70,3300,2640
+13-Mar-26,Crunchie,Mumbai,Online,Credit Card,46,291,185,0,197,53835,53835
+14-Mar-26,Crunchie,Mumbai,Supermarket,Credit Card,58,26,53,15,56,1378,1171.3
+15-Mar-26,Silk,Mumbai,Supermarket,Credit Card,59,80,113,5,92,9040,8588
+23-Mar-26,Perk,Delhi,Online,Credit Card,24,314,74,5,39,23236,22074.2
+06-Apr-26,5 Star,Kolkata,Distributor,Credit Card,47,126,199,5,116,25074,23820.3
+13-Apr-26,Dairy Milk,Hyderabad,Online,Credit Card,35,165,12,10,190,1980,1782
+16-Apr-26,Gems,Kolkata,Retail Store,Credit Card,47,321,24,0,58,7704,7704
+18-Apr-26,Perk,Chennai,Distributor,Credit Card,14,102,168,10,72,17136,15422.4
+24-Apr-26,Dairy Milk,Delhi,Online,Credit Card,39,127,112,0,61,14224,14224
+02-May-26,Perk,Bangalore,Supermarket,Credit Card,21,434,69,20,80,29946,23956.8
+04-May-26,Dairy Milk,Bangalore,Online,Credit Card,58,280,180,10,35,50400,45360
+05-May-26,Gems,Kolkata,Supermarket,Credit Card,21,396,135,5,167,53460,50787
+13-May-26,Fuse,Pune,Distributor,Credit Card,28,444,13,10,195,5772,5194.8
+15-May-26,Fuse,Kolkata,Supermarket,Credit Card,25,57,160,10,151,9120,8208
+24-May-26,Crunchie,Bangalore,Retail Store,Credit Card,35,369,15,10,87,5535,4981.5
+26-May-26,Dairy Milk,Chennai,Online,Credit Card,54,344,129,15,22,44376,37719.6
+30-May-26,5 Star,Kolkata,Online,Credit Card,49,58,148,0,8,8584,8584
+01-Jun-26,Crunchie,Pune,Distributor,Credit Card,31,91,154,15,155,14014,11911.9
+03-Jun-26,Crunchie,Delhi,Retail Store,Credit Card,27,342,141,10,187,48222,43399.8
+05-Jun-26,Crunchie,Pune,Retail Store,Credit Card,28,344,50,20,26,17200,13760
+07-Jun-26,Bournville,Chennai,Online,Credit Card,39,457,169,0,75,77233,77233
+20-Jun-26,Bournville,Kolkata,Supermarket,Credit Card,36,448,122,10,123,54656,49190.4
+06-Jul-26,Fuse,Chennai,Retail Store,Credit Card,44,58,103,10,163,5974,5376.6
+16-Jul-26,Perk,Kolkata,Retail Store,Credit Card,52,429,108,20,141,46332,37065.6
+20-Jul-26,5 Star,Kolkata,Supermarket,Credit Card,39,323,182,0,191,58786,58786
+26-Jul-26,Perk,Pune,Online,Credit Card,15,489,130,0,22,63570,63570
+28-Jul-26,5 Star,Mumbai,Supermarket,Credit Card,51,218,63,5,147,13734,13047.3
+09-Aug-26,Silk,Kolkata,Supermarket,Credit Card,37,229,51,5,132,11679,11095.05
+13-Aug-26,Gems,Delhi,Supermarket,Credit Card,37,410,141,5,101,57810,54919.5
+14-Aug-26,Dairy Milk,Mumbai,Online,Credit Card,36,409,139,5,123,56851,54008.45
+03-Sep-26,Gems,Pune,Supermarket,Credit Card,52,25,78,5,161,1950,1852.5
+18-Sep-26,5 Star,Kolkata,Online,Credit Card,16,216,133,0,92,28728,28728
+22-Sep-26,Silk,Kolkata,Online,Credit Card,29,11,152,15,12,1672,1421.2
+24-Sep-26,Fuse,Delhi,Distributor,Credit Card,21,405,183,5,65,74115,70409.25
+25-Sep-26,Gems,Delhi,Retail Store,Credit Card,57,380,189,5,3,71820,68229
+05-Oct-26,Crunchie,Mumbai,Online,Credit Card,56,248,34,5,3,8432,8010.4
+14-Oct-26,Crunchie,Pune,Supermarket,Credit Card,42,489,109,5,34,53301,50635.95
+19-Oct-26,Silk,Bangalore,Distributor,Credit Card,27,278,150,0,45,41700,41700
+22-Oct-26,5 Star,Kolkata,Online,Credit Card,59,400,127,10,154,50800,45720
+24-Oct-26,Perk,Delhi,Supermarket,Credit Card,23,83,31,20,16,2573,2058.4
+25-Oct-26,Gems,Pune,Online,Credit Card,22,496,189,5,163,93744,89056.8
+27-Oct-26,Dairy Milk,Delhi,Online,Credit Card,36,472,120,10,80,56640,50976
+28-Oct-26,Gems,Chennai,Supermarket,Credit Card,29,216,173,15,1,37368,31762.8
+13-Nov-26,Gems,Kolkata,Distributor,Credit Card,45,72,96,20,83,6912,5529.6
+15-Nov-26,Fuse,Chennai,Distributor,Credit Card,24,79,84,0,38,6636,6636
+16-Nov-26,Dairy Milk,Mumbai,Retail Store,Credit Card,53,390,174,5,12,67860,64467
+18-Nov-26,Bournville,Hyderabad,Retail Store,Credit Card,41,105,195,0,56,20475,20475
+24-Nov-26,Gems,Pune,Supermarket,Credit Card,54,311,146,10,56,45406,40865.4
+27-Nov-26,Fuse,Chennai,Online,Credit Card,31,399,144,5,79,57456,54583.2
+30-Nov-26,5 Star,Bangalore,Retail Store,Credit Card,40,375,168,20,34,63000,50400
+10-Dec-26,Crunchie,Kolkata,Retail Store,Credit Card,53,267,41,20,105,10947,8757.6
+11-Dec-26,Crunchie,Mumbai,Retail Store,Credit Card,54,273,75,20,115,20475,16380
+14-Dec-26,Dairy Milk,Delhi,Online,Credit Card,53,191,147,20,199,28077,22461.6
+22-Dec-26,5 Star,Mumbai,Online,Credit Card,38,308,176,0,159,54208,54208
+29-Dec-26,Perk,Pune,Distributor,Credit Card,47,460,94,15,38,43240,36754
+02-Jan-27,Dairy Milk,Bangalore,Retail Store,Credit Card,12,360,120,5,69,43200,41040
+09-Jan-27,Gems,Pune,Distributor,Credit Card,31,468,190,0,83,88920,88920
+18-Jan-27,Silk,Pune,Online,Credit Card,29,175,49,15,32,8575,7288.75
+22-Jan-27,Gems,Kolkata,Online,Credit Card,38,123,21,15,17,2583,2195.55
+25-Jan-27,5 Star,Delhi,Distributor,Credit Card,12,365,191,0,116,69715,69715
+30-Jan-27,Silk,Hyderabad,Distributor,Credit Card,34,244,191,0,169,46604,46604
+31-Jan-27,Fuse,Mumbai,Supermarket,Credit Card,21,451,39,20,122,17589,14071.2
+01-Feb-27,5 Star,Kolkata,Retail Store,Credit Card,22,364,93,5,175,33852,32159.4
+07-Feb-27,Crunchie,Bangalore,Distributor,Credit Card,33,147,19,0,101,2793,2793
+13-Feb-27,Fuse,Kolkata,Distributor,Credit Card,16,392,127,0,140,49784,49784
+18-Feb-27,Crunchie,Hyderabad,Retail Store,Credit Card,37,70,194,5,91,13580,12901
+27-Feb-27,Crunchie,Chennai,Retail Store,Credit Card,32,119,21,5,154,2499,2374.05
+03-Mar-27,Crunchie,Hyderabad,Retail Store,Credit Card,53,206,99,10,169,20394,18354.6
+05-Mar-27,Fuse,Chennai,Distributor,Credit Card,26,324,105,0,52,34020,34020
+06-Mar-27,Dairy Milk,Hyderabad,Supermarket,Credit Card,56,398,185,10,186,73630,66267
+07-Mar-27,Silk,Delhi,Online,Credit Card,40,60,29,5,37,1740,1653
+08-Mar-27,Gems,Mumbai,Retail Store,Credit Card,19,158,48,5,196,7584,7204.8
+12-Mar-27,Dairy Milk,Pune,Online,Credit Card,59,255,188,20,47,47940,38352
+13-Mar-27,Bournville,Bangalore,Online,Credit Card,50,122,133,0,94,16226,16226
+14-Mar-27,Dairy Milk,Hyderabad,Supermarket,Credit Card,57,179,173,15,146,30967,26321.95
+20-Mar-27,Bournville,Mumbai,Retail Store,Credit Card,46,297,87,20,178,25839,20671.2
+21-Mar-27,Gems,Pune,Retail Store,Credit Card,48,404,38,10,38,15352,13816.8
+22-Mar-27,Perk,Hyderabad,Retail Store,Credit Card,12,198,24,20,3,4752,3801.6
+24-Mar-27,Dairy Milk,Chennai,Supermarket,Credit Card,58,164,110,20,2,18040,14432
+30-Mar-27,Fuse,Delhi,Retail Store,Credit Card,40,84,158,0,101,13272,13272
+03-Apr-27,Bournville,Bangalore,Retail Store,Credit Card,15,352,110,0,38,38720,38720
+13-Apr-27,Perk,Kolkata,Retail Store,Credit Card,48,73,173,5,190,12629,11997.55
+15-Apr-27,Dairy Milk,Chennai,Distributor,Credit Card,51,269,136,0,34,36584,36584
+17-Apr-27,Perk,Kolkata,Distributor,Credit Card,50,152,198,5,155,30096,28591.2
+20-Apr-27,Gems,Chennai,Online,Credit Card,31,415,105,20,24,43575,34860
+30-Apr-27,Bournville,Delhi,Distributor,Credit Card,52,443,153,10,8,67779,61001.1
+01-May-27,Silk,Mumbai,Retail Store,Credit Card,16,121,196,15,1,23716,20158.6
+08-May-27,Perk,Pune,Supermarket,Credit Card,38,305,151,5,75,46055,43752.25
+17-May-27,Gems,Delhi,Online,Credit Card,32,103,53,20,89,5459,4367.2
+25-May-27,5 Star,Bangalore,Online,Credit Card,20,301,132,0,143,39732,39732
+30-May-27,Gems,Pune,Supermarket,Credit Card,33,373,108,0,94,40284,40284
+03-Jun-27,Crunchie,Bangalore,Retail Store,Credit Card,58,157,191,15,148,29987,25488.95
+10-Jun-27,Silk,Mumbai,Supermarket,Credit Card,47,137,38,5,61,5206,4945.7
+14-Jun-27,Fuse,Bangalore,Supermarket,Credit Card,13,153,31,15,199,4743,4031.55
+23-Jun-27,Silk,Chennai,Retail Store,Credit Card,50,449,84,15,190,37716,32058.6
+24-Jun-27,Perk,Mumbai,Distributor,Credit Card,28,441,176,10,84,77616,69854.4
+02-Jul-27,Gems,Hyderabad,Retail Store,Credit Card,31,188,55,0,8,10340,10340
+03-Jul-27,5 Star,Pune,Supermarket,Credit Card,14,221,136,15,14,30056,25547.6
+11-Jul-27,Silk,Chennai,Distributor,Credit Card,14,273,79,20,108,21567,17253.6
+20-Jul-27,Silk,Pune,Distributor,Credit Card,54,318,117,5,101,37206,35345.7
+28-Jul-27,Bournville,Kolkata,Supermarket,Credit Card,35,422,182,10,90,76804,69123.6
+29-Jul-27,5 Star,Delhi,Online,Credit Card,40,412,180,5,89,74160,70452
+01-Aug-27,Crunchie,Pune,Retail Store,Credit Card,44,443,197,20,48,87271,69816.8
+02-Aug-27,Gems,Kolkata,Retail Store,Credit Card,51,80,194,15,170,15520,13192
+03-Aug-27,Gems,Mumbai,Supermarket,Credit Card,30,373,95,5,71,35435,33663.25
+08-Aug-27,Gems,Bangalore,Distributor,Credit Card,17,59,95,10,163,5605,5044.5
+22-Aug-27,Silk,Hyderabad,Supermarket,Credit Card,55,305,188,20,179,57340,45872
+03-Sep-27,5 Star,Delhi,Distributor,Credit Card,27,69,143,10,81,9867,8880.3
+10-Sep-27,Fuse,Hyderabad,Online,Credit Card,23,22,81,5,23,1782,1692.9
+17-Sep-27,Crunchie,Hyderabad,Supermarket,Credit Card,16,232,20,15,104,4640,3944
+18-Sep-27,5 Star,Chennai,Online,Credit Card,44,347,112,5,2,38864,36920.8
+22-Sep-27,Fuse,Hyderabad,Supermarket,Credit Card,33,353,149,20,191,52597,42077.6
+26-Sep-27,Crunchie,Kolkata,Online,Credit Card,58,287,149,20,192,42763,34210.4
